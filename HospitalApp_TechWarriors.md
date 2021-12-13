@@ -91,7 +91,7 @@ quality medication to patients.
 
 ## Onboarding Screens
 
-<img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639233750.png"  width="250" height="540"/>  
+<img src="https://drive.google.com/file/d/1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva/view"  width="250" height="540"/>  
 
 
 
