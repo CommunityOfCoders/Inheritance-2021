@@ -91,13 +91,13 @@ quality medication to patients.
 
 ## Onboarding Screens
 
-<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/>  
+<img src="https://drive.google.com/uc?export=view&id=1w545OKpztlpXipP3CwMdFseqhfBSIA9X"  width="250" height="540"/>  
 
 
 
 ## Authentication Screens
 
-<img src="https://drive.google.com/uc?export=view&id=19E_B_q-WQoi4P6UgPxRbBQuv-299hoSJ"  width="250" height="540"/>  <img src= "https://drive.google.com/uc?export=view&id=1w545OKpztlpXipP3CwMdFseqhfBSIA9X"  width="250" height="540"/>
+<img src="https://drive.google.com/uc?export=view&id=1w545OKpztlpXipP3CwMdFseqhfBSIA9X"  width="250" height="540"/>  <img src= "https://drive.google.com/uc?export=view&id=1w545OKpztlpXipP3CwMdFseqhfBSIA9X"  width="250" height="540"/>
 
 
 
