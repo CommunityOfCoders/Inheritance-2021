@@ -97,44 +97,18 @@ quality medication to patients.
 
 ## Authentication Screens
 
-<img src="https://drive.google.com/uc?export=view&id=19E_B_q-WQoi4P6UgPxRbBQuv-299hoSJ"  width="250" height="540"/>  
-<img src= "https://drive.google.com/uc?export=view&id=1w545OKpztlpXipP3CwMdFseqhfBSIA9X"  width="250" height="540"/>
+<img src="https://drive.google.com/uc?export=view&id=19E_B_q-WQoi4P6UgPxRbBQuv-299hoSJ"  width="250" height="540"/>  <img src= "https://drive.google.com/uc?export=view&id=1w545OKpztlpXipP3CwMdFseqhfBSIA9X"  width="250" height="540"/>
 
 
 
 ## Hospital workflow
 
-<img src="https://drive.google.com/uc?export=view&id=1jjEqZCEOFf7sew3wh1QDl7bO6vjGzr0e"  width="250" height="540"/> 
-<img src= "https://drive.google.com/uc?export=view&id=1jZJgw0W8Ui_yrEFQOzuE5-_cE4jSA08D"  width="250" height="540"/>  
-<img src="https://drive.google.com/uc?export=view&id=1HOYYWjWORxUBWdk6LCE6GkOl7870_-Pt"  width="250" height="540"/> 
-<img src= "https://drive.google.com/uc?export=view&id=1WS47bebKc_j37O2a_du-n7qW3bqd3KRd"  width="250" height="540"/> 
-<img src="https://drive.google.com/uc?export=view&id=1dL1K-2thIS8cEIemqvfrgstlcEfWRU6D"  width="250" height="540"/> 
-<img src= "https://drive.google.com/uc?export=view&id=1SAGM9hc0G9FxeGLp04jLma-yhLveQGDx"  width="250" height="540"/> 
-<img src="https://drive.google.com/uc?export=view&id=1lnTzSbOKHd8iBrcSulAT7F1ATR8RtC_d"  width="250" height="540"/> 
-<img src="https://drive.google.com/uc?export=view&id=1THxL3uK4qwNqeI-3EpFd9oxe_HKvwsHH"  width="250" height="540"/> 
-<img src= "https://drive.google.com/uc?export=view&id=1mwxqDBMV-EDINs48DQlzN7mXQk13LAR1"  width="250" height="540"/>  
-<img src="https://drive.google.com/uc?export=view&id=1pxRHkkTY2aIedaYKcOt-JRJNjCWBn-eA"  width="250" height="540"/> 
-<img src= "https://drive.google.com/uc?export=view&id=1vUBVd5IZxASlvNkwNKRtHUa4rfIQx4Mv"  width="250" height="540"/> 
-<img src="https://drive.google.com/uc?export=view&id=1iTu-vaEoZ_F4up56dBP5vznerTP5SkMT"  width="250" height="540"/> 
-<img src= "https://drive.google.com/uc?export=view&id=1zK1lmTepQ5jLBUibRRd6B1N2WHz6_BrK"  width="250" height="540"/> 
-<img src="https://drive.google.com/uc?export=view&id=1yLRsn2nbyNysJ6DsY5i0oC8mrMpsLSo1"  width="250" height="540"/>   
-<img src="https://drive.google.com/uc?export=view&id=1uLG3UFh1EuncRPm1GemzDMn6FGxVAoc9"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1jjEqZCEOFf7sew3wh1QDl7bO6vjGzr0e"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1jZJgw0W8Ui_yrEFQOzuE5-_cE4jSA08D"  width="250" height="540"/>  <img src="https://drive.google.com/uc?export=view&id=1HOYYWjWORxUBWdk6LCE6GkOl7870_-Pt"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1WS47bebKc_j37O2a_du-n7qW3bqd3KRd"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1dL1K-2thIS8cEIemqvfrgstlcEfWRU6D"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1SAGM9hc0G9FxeGLp04jLma-yhLveQGDx"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1lnTzSbOKHd8iBrcSulAT7F1ATR8RtC_d"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1THxL3uK4qwNqeI-3EpFd9oxe_HKvwsHH"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1mwxqDBMV-EDINs48DQlzN7mXQk13LAR1"  width="250" height="540"/>  <img src="https://drive.google.com/uc?export=view&id=1pxRHkkTY2aIedaYKcOt-JRJNjCWBn-eA"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1vUBVd5IZxASlvNkwNKRtHUa4rfIQx4Mv"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1iTu-vaEoZ_F4up56dBP5vznerTP5SkMT"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1zK1lmTepQ5jLBUibRRd6B1N2WHz6_BrK"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1yLRsn2nbyNysJ6DsY5i0oC8mrMpsLSo1"  width="250" height="540"/>   <img src="https://drive.google.com/uc?export=view&id=1uLG3UFh1EuncRPm1GemzDMn6FGxVAoc9"  width="250" height="540"/> 
 
 
 
 ## Patient workflow
 
-<img src="https://drive.google.com/uc?export=view&id=1SfMwma_5DuAuoYyzLvmRtjYDNgXEQWVH"  width="250" height="540"/> 
-<img src= "https://drive.google.com/uc?export=view&id=1qy96p-9edoYPUpwCLaBv6e0DYaynoOGX"  width="250" height="540"/>  
-<img src="https://drive.google.com/uc?export=view&id=1VC9KAE2MNS_MiZdtKPfkWTf8BWTDcDtc"  width="250" height="540"/> 
-<img src= "https://drive.google.com/uc?export=view&id=1MNMmqQ1Y_3raeZn3XKIgdAVCp65v0rEz"  width="250" height="540"/> 
-<img src="https://drive.google.com/uc?export=view&id=1SAGM9hc0G9FxeGLp04jLma-yhLveQGDx"  width="250" height="540"/> 
-<img src= "https://drive.google.com/uc?export=view&id=1HwZbXUlzZ1oEj5yXUcXuQ8lSgCiIyyP_"  width="250" height="540"/> 
-<img src="https://drive.google.com/uc?export=view&id=13afuER3T8Eizz0jxSSwpFRMWHxhf87Z3"  width="250" height="540"/> 
-<img src="https://drive.google.com/uc?export=view&id=1jmbsUAPbWS27MWU74a2UWcYXHxzUWBGi"  width="250" height="540"/> 
-<img src= "https://drive.google.com/uc?export=view&id=117drpnktvktrH2O-Mxp8AAR4XxzdETa6"  width="250" height="540"/>  
-<img src="https://drive.google.com/uc?export=view&id=1Hfhv33jEp9qt6JXlzhq8SJRVpSpE3U2t"  width="250" height="540"/> 
-<img src= "https://drive.google.com/uc?export=view&id=1sWkUktY8F097eGzxsyvyaEjtVNglVuHE"  width="250" height="540"/> 
-<img src="https://drive.google.com/uc?export=view&id=1QGwt29P-w_XQPRa9hlrgdKPVnW4AW8Jw"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1SfMwma_5DuAuoYyzLvmRtjYDNgXEQWVH"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1qy96p-9edoYPUpwCLaBv6e0DYaynoOGX"  width="250" height="540"/>  <img src="https://drive.google.com/uc?export=view&id=1VC9KAE2MNS_MiZdtKPfkWTf8BWTDcDtc"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1MNMmqQ1Y_3raeZn3XKIgdAVCp65v0rEz"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1SAGM9hc0G9FxeGLp04jLma-yhLveQGDx"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1HwZbXUlzZ1oEj5yXUcXuQ8lSgCiIyyP_"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=13afuER3T8Eizz0jxSSwpFRMWHxhf87Z3"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1jmbsUAPbWS27MWU74a2UWcYXHxzUWBGi"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=117drpnktvktrH2O-Mxp8AAR4XxzdETa6"  width="250" height="540"/>  <img src="https://drive.google.com/uc?export=view&id=1Hfhv33jEp9qt6JXlzhq8SJRVpSpE3U2t"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1sWkUktY8F097eGzxsyvyaEjtVNglVuHE"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1QGwt29P-w_XQPRa9hlrgdKPVnW4AW8Jw"  width="250" height="540"/> 
   
 
