@@ -91,7 +91,7 @@ quality medication to patients.
 
 ## Onboarding Screens
 
-<img src="https://drive.google.com/file/d/1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva/view"  width="250" height="540"/>  
+<img src="https://drive.google.com/drive/folders/1ld_YHFPWiB_PsNT94fKdY23Pzif_PTq9"  width="250" height="540"/>  
 
 
 
