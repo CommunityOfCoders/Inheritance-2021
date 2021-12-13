@@ -97,18 +97,44 @@ quality medication to patients.
 
 ## Authentication Screens
 
-<img src="https://drive.google.com/file/d/19E_B_q-WQoi4P6UgPxRbBQuv-299hoSJ/view?usp=sharing"  width="250" height="540"/>  <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639233761.png"  width="250" height="540"/>
+<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-19E_B_q-WQoi4P6UgPxRbBQuv-299hoSJ"  width="250" height="540"/>  
+<img src= "https://drive.google.com/uc?export=view&id=1j4rjRw-1w545OKpztlpXipP3CwMdFseqhfBSIA9X"  width="250" height="540"/>
 
 
 
 ## Hospital workflow
 
-<img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234704.png"  width="250" height="540"/> <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234708.png"  width="250" height="540"/>  <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234716.png"  width="250" height="540"/> <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234745.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234765.png"  width="250" height="540"/> <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234271.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234782.png"  width="250" height="540"/> <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234791.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234795.png"  width="250" height="540"/> <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234812.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234838.png"  width="250" height="540"/> <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234841.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234846.png"  width="250" height="540"/> <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234850.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234859.png"  width="250" height="540"/>  
-
+<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-1jjEqZCEOFf7sew3wh1QDl7bO6vjGzr0e"  width="250" height="540"/> 
+<img src= "https://drive.google.com/uc?export=view&id=1j4rjRw-1jZJgw0W8Ui_yrEFQOzuE5-_cE4jSA08D"  width="250" height="540"/>  
+<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-1HOYYWjWORxUBWdk6LCE6GkOl7870_-Pt"  width="250" height="540"/> 
+<img src= "https://drive.google.com/uc?export=view&id=1j4rjRw-1WS47bebKc_j37O2a_du-n7qW3bqd3KRd"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-1dL1K-2thIS8cEIemqvfrgstlcEfWRU6D"  width="250" height="540"/> 
+<img src= "https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+<img src= "https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/>  
+<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+<img src= "https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+<img src= "https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/>   
+<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
 
 
 ## Patient workflow
 
 
-<img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639233810.png"  width="250" height="540"/> <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234163.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234186.png"  width="250" height="540"/> <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234262.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234271.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234283.png"  width="250" height="540"/> <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234286.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234622.png"  width="250" height="540"/> <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234626.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234632.png"  width="250" height="540"/> <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234637.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234660.png"  width="250" height="540"/>  
+<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+<img src= "https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/>  
+<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+<img src= "https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+<img src= "https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+<img src= "https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/>  
+<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+<img src= "https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+  
 
