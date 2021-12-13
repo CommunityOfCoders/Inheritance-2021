@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-_
-=======
 
->>>>>>> f6c79e44906973f4722d4184277d54e1a808b9bc
 # Hospital App
 
 Team name: Tech-Warriors
@@ -114,10 +109,6 @@ quality medication to patients.
 
 ## Patient workflow
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 96017d3bdf24ea3617625c4edb6b14739e1b6b36
-=======
 <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639233810.png"  width="250" height="540"/> <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234163.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234186.png"  width="250" height="540"/> <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234262.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234271.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234283.png"  width="250" height="540"/> <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234286.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234622.png"  width="250" height="540"/> <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234626.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234632.png"  width="250" height="540"/> <img src= "https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234637.png"  width="250" height="540"/> <img src="https://github.com/Tushar-Shirbhate/Hospital-App/blob/tushar/Assets/screenshots/Screenshot_1639234660.png"  width="250" height="540"/>  
->>>>>>> f6c79e44906973f4722d4184277d54e1a808b9bc
+
