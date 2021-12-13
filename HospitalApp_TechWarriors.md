@@ -97,19 +97,19 @@ quality medication to patients.
 
 ## Authentication Screens
 
-<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-19E_B_q-WQoi4P6UgPxRbBQuv-299hoSJ"  width="250" height="540"/>  
-<img src= "https://drive.google.com/uc?export=view&id=1j4rjRw-1w545OKpztlpXipP3CwMdFseqhfBSIA9X"  width="250" height="540"/>
+<img src="https://drive.google.com/uc?export=view&id=19E_B_q-WQoi4P6UgPxRbBQuv-299hoSJ"  width="250" height="540"/>  
+<img src= "https://drive.google.com/uc?export=view&id=1w545OKpztlpXipP3CwMdFseqhfBSIA9X"  width="250" height="540"/>
 
 
 
 ## Hospital workflow
 
-<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-1jjEqZCEOFf7sew3wh1QDl7bO6vjGzr0e"  width="250" height="540"/> 
-<img src= "https://drive.google.com/uc?export=view&id=1j4rjRw-1jZJgw0W8Ui_yrEFQOzuE5-_cE4jSA08D"  width="250" height="540"/>  
-<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-1HOYYWjWORxUBWdk6LCE6GkOl7870_-Pt"  width="250" height="540"/> 
-<img src= "https://drive.google.com/uc?export=view&id=1j4rjRw-1WS47bebKc_j37O2a_du-n7qW3bqd3KRd"  width="250" height="540"/> 
-<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-1dL1K-2thIS8cEIemqvfrgstlcEfWRU6D"  width="250" height="540"/> 
-<img src= "https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1jjEqZCEOFf7sew3wh1QDl7bO6vjGzr0e"  width="250" height="540"/> 
+<img src= "https://drive.google.com/uc?export=view&id=1jZJgw0W8Ui_yrEFQOzuE5-_cE4jSA08D"  width="250" height="540"/>  
+<img src="https://drive.google.com/uc?export=view&id=1HOYYWjWORxUBWdk6LCE6GkOl7870_-Pt"  width="250" height="540"/> 
+<img src= "https://drive.google.com/uc?export=view&id=1WS47bebKc_j37O2a_du-n7qW3bqd3KRd"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1dL1K-2thIS8cEIemqvfrgstlcEfWRU6D"  width="250" height="540"/> 
+<img src= "https://drive.google.com/uc?export=view&id=AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
 <img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
 <img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/> 
 <img src= "https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/>  
