@@ -79,9 +79,10 @@ A web or computer application to analyze the current trends in the stock a user 
 - [ ] Real-time charts (partially added, dark-mode sync and responsiveness are remaining)
 
 ## 🔮Future Scope:
-- Add a portfolio where a user can create an account and pin the stocks of his interest
+- Add a portfolio where a user can create an account and pin the stocks of his interest, using MongoDB
 - Improve the searchbar autosuggest performance with a regex-based implementation at the server-side
 - Cache requests at the proxy server for a snappy real-time performance
+- An UpStox-inspired computer application, using ElectronJS
 
 ## 👩‍💻Contributors
 
