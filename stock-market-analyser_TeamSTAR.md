@@ -52,6 +52,7 @@ A web or computer application to analyze the current trends in the stock a user 
 <a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="31px" height="31px"></a>
 <a href="https://scikit-learn.org/stable/" title="scikit-learn"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="71px" height="31px"></a>
 <a href="https://matplotlib.org/" title="matplot"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplot" width="71px" height="31px"></a>
+<a href="https://seaborn.pydata.org/" title="Seaborn"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="71px" height="31px"></a>
 <a href="https://www.tensorflow.org/" title="Tensorflow"><img src="https://github.com/get-icon/geticon/raw/master/icons/tensorflow.svg" alt="Tensorflow" width="31px" height="31px"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="31px" height="31px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="31px" height="31px"></a>
@@ -63,6 +64,7 @@ A web or computer application to analyze the current trends in the stock a user 
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/blob/master/icons/eslint.svg" alt="ESLint" width="31px" height="31px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="" width="31px" height="31px"></a>
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="" width="31px" height="31px"></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" title="Flask"><img src="https://github.com/get-icon/geticon/blob/master/icons/flask.svg" alt="Flask" width="31px" height="31px"></a>
 
 ## 📈Progress:
 - [X] Search any stock and get real-time updates, along with historical data and reviews
