@@ -51,8 +51,8 @@ A web or computer application to analyze the current trends in the stock a user 
   
 ## 🔗Links
 - [GitHub Repo Link](https://github.com/toshan-luktuke/stock-market-analyser)
-- [Stock Market Analyser]()
-- [Drive link for Recordings & Screenshots]()
+- [Stock Market Analyser](https://stock-market-analyser.vercel.app/)
+- [Drive link for Recordings & Screenshots](https://drive.google.com/drive/folders/1A4iOlkxtDlkG3PurklooRA8DYiPBIil9)
   
 ## 🤖Tech-Stack
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="31px" height="31px"></a>
@@ -200,5 +200,5 @@ Team members:
 
 - [Utsav Khatu](https://github.com/utsavk28)
 - [Vishal Patil](https://github.com/vishalpatil18)
-- [Mithilesh Patil]
+- [Mithilesh Patil](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Atharva Alshi](https://github.com/atharva1608)
