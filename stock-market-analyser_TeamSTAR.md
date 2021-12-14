@@ -58,11 +58,11 @@ Team members:
 - [Toshan Luktuke](https://github.com/toshan-luktuke) - toshan1603@gmail.com
 - [Rushabh Maru](https://github.com/RushabhM03) -
 - [Alisha Kamat](https://github.com/alisha-kamat) -
-- [Sarvagnya Purohit](https://github.com/saRvaGnyA) -
+- [Sarvagnya Purohit](https://github.com/saRvaGnyA) - sarvagnyapurohit@gmail.com
 
 ## 👨‍🏫Mentors
 
-- [Utsav Khatu]
+- [Utsav Khatu](https://github.com/utsavk28)
 - [Vishal Patil]
 - [Mithilesh Patil]
 - [Atharva Alshi]
