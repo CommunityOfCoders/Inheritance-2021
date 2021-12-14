@@ -135,6 +135,8 @@ A web or computer application to analyze the current trends in the stock a user 
 
 ### For the Flask API:
 
+1. Look for the `main.py` and `test.py` files in the same directory where requirements.txt is present and have them ready. (The packages for flask would already be installed when you run previous command number 2 in the above section)
+
 ## 💻Usage
 Once the required setup and installation is completed, you can start developing and running the project.
 
