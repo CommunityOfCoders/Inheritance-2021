@@ -21,10 +21,12 @@
 <summary>Table of Contents</summary>
 
 - [Description](#description)
+- [Links](#links)
 - [Tech Stack](#tech-stack)
 - [Progress](#progress)
 - [Future Scope](#future-scope)
 - [Project Setup](#project-setup)
+- [Usage](#usage)
 - [Contributors](#contributors)
 - [Mentors](#mentors)
 
@@ -46,6 +48,11 @@ A web or computer application to analyze the current trends in the stock a user 
     </td>
   </tr>
   </table>
+  
+## 🔗Links
+- [GitHub Repo Link](https://github.com/toshan-luktuke/stock-market-analyser)
+- [Stock Market Analyser]()
+- [Drive link for Recordings & Screenshots]()
   
 ## 🤖Tech-Stack
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="31px" height="31px"></a>
@@ -89,7 +96,7 @@ A web or computer application to analyze the current trends in the stock a user 
 
 ## 🛠Project Setup
 
-### For the web app:
+### For the web-app:
 1. Clone the GitHub repo  
    ```
    $ git clone https://github.com/toshan-luktuke/stock-market-analyser.git
@@ -105,9 +112,48 @@ A web or computer application to analyze the current trends in the stock a user 
    $ cd ../server
    $ npm install
    ```
+   Also setup the `.env` file for storing the environment variables. A demo file for this is as follows:
+   ```
+   PORT = 5000
+   API_KEY_AV = your AlphaVantage API key
+   API_KEY_YF = your YahooFinance API key
+   API_KEY_FMP = your FinancialModellingPrep API key
+   ```
 4. If you are working on Visual Studio Code or WebStorm, it'd be convenient to install the extensions for [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) and [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
 
 ### For the model:
+
+### For the Flask API:
+
+## 💻Usage
+Once the required setup and installation is completed, you can start developing and running the project.
+
+### For the web-app:
+1. Backend: Go to the `server` directory and run the `dev` script to activate nodemon
+   ```
+   $ cd server
+   $ npm run dev
+   ```
+   Before pushing any commit, make sure to run the `lint` script and fix any linting errors
+   ```
+   $ npm run lint
+   ```
+   The requests will be listened at the port of `localhost` which was specified in the `.env` file. For example, if it was specified as 5000, the requests should be made at `http://localhost:5000/`  
+   Use the browser or any other API-testing client like [Postman](https://www.postman.com/) or [Insomnia](https://insomnia.rest/) to test any newly added routes.
+2. Frontend: Go to the `client` directory and run the `start` script to start the React App.
+   ```
+   $ cd client
+   $ npm start
+   ```
+   The web-app can be viewed at `http://localhost:3000/`  
+   If you get an ESLint, Tailwind or PostCSS version conflict error, make a `.env` file in the `client` directory with the following contents:
+   ```
+   SKIP_PREFLIGHT_CHECK = true
+   ```
+
+### For the model:
+
+### For the Flask API
 
 ## 👩‍💻Contributors
 
