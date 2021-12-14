@@ -163,9 +163,29 @@ Once the required setup and installation is completed, you can start developing 
    SKIP_PREFLIGHT_CHECK = true
    ```
 
-### For the model:
+### For the model and for the Flask API:
 
-### For the Flask API
+1. Locate to your directory where you have the `main.py` and `test.py` files. The models for the project are in `model.py` and `ann_model.py` files.
+
+2. Open the command prompt for anaconda and switch to the virtual enivronment that you created. (example: test)
+   ```
+   $ conda activate test
+   ```
+
+3. Open another command prompt for anaconda and switch to the virtual enivronment that you created. (example: test)
+   ```
+   $ conda activate test
+   ```
+
+4. To initiate the server, type the following in the first command prompt
+   ```
+   python main.py
+   ```
+
+5. To run the linear regression model, type the following in the second prompt while the server is running.
+   ```
+   python test.py
+   ```
 
 ## 👩‍💻Contributors
 
