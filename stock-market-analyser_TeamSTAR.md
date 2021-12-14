@@ -76,4 +76,4 @@ Team members:
 - [Utsav Khatu](https://github.com/utsavk28)
 - [Vishal Patil](https://github.com/vishalpatil18)
 - [Mithilesh Patil]
-- [Atharva Alshi]
+- [Atharva Alshi](hhtps://github.com/atharva1608)
