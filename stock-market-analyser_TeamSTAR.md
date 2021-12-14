@@ -95,7 +95,7 @@ A web or computer application to analyze the current trends in the stock a user 
    $ git clone https://github.com/toshan-luktuke/stock-market-analyser.git
    ```
    
-2. Enter the `client` directory. Install all the required dependencies. Ensure that remove any globally-installed node packages like the React CLI or ESLint before proceeding ahead  
+2. Enter the `client` directory. Install all the required dependencies. Ensure that remove any globally-installed packages like the React CLI, Tailwind CLI, PostCSS CLI or ESLint are uninstalled before proceeding ahead  
    ```
    $ cd client  
    $ npm install
@@ -105,6 +105,7 @@ A web or computer application to analyze the current trends in the stock a user 
    $ cd ../server
    $ npm install
    ```
+4. If you are working on Visual Studio Code or WebStorm, it'd be convenient to install the extensions for [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) and [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
 
 ### For the model:
 
