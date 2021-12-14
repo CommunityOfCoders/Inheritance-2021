@@ -160,7 +160,7 @@ Once the required setup and installation is completed, you can start developing 
 Team members:
 
 - [Toshan Luktuke](https://github.com/toshan-luktuke) - toshan1603@gmail.com
-- [Rushabh Maru](https://github.com/RushabhM03) -
+- [Rushabh Maru](https://github.com/RushabhM03) - rushabh.maru123@gmail.com
 - [Alisha Kamat](https://github.com/alisha-kamat) -
 - [Sarvagnya Purohit](https://github.com/saRvaGnyA) - sarvagnyapurohit@gmail.com
 
