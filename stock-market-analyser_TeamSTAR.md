@@ -75,7 +75,7 @@ A web or computer application to analyze the current trends in the stock a user 
 - [ ] API for the ANN model
 - [ ] Hosting the model
 - [ ] Market Dashboard
-- [ ] Linking the predictions page through the REST API for the model
+- [ ] Linking the predictions page through the REST API for the model (has been tested on the localhost)
 - [ ] Real-time charts (partially added, dark-mode sync and responsiveness are remaining)
 
 ## 🔮Future Scope:
