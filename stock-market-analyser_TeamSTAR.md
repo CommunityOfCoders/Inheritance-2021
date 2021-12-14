@@ -128,7 +128,7 @@ A web or computer application to analyze the current trends in the stock a user 
     $ conda create -n test python=3.8 anaconda
     $ conda activate test
     ```
-2. Enter the `flask` directory look for requirments.txt and install the packages.
+2. Enter the `model` directory look for requirments.txt and install the packages.
    ```
    $ pip install -r requirements.txt
    ```
