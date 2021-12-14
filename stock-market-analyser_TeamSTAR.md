@@ -20,7 +20,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [About](#about)
+- [Description](#description)
 - [Tech Stack](#tech-stack)
 - [Progress](#progress)
 - [Future Scope](#future-scope)
@@ -29,7 +29,7 @@
 
 </details>
 
-## 📝About
+## 📝Description
 
 <table>
   <tr>
