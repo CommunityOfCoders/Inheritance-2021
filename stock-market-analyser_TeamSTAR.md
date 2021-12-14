@@ -179,12 +179,12 @@ Once the required setup and installation is completed, you can start developing 
 
 4. To initiate the server, type the following in the first command prompt
    ```
-   python main.py
+   $ python main.py
    ```
 
 5. To run the linear regression model, type the following in the second prompt while the server is running.
    ```
-   python test.py
+   $ python test.py
    ```
 
 ## 👩‍💻Contributors
