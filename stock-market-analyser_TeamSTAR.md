@@ -37,7 +37,7 @@
 <table>
   <tr>
     <td>
-A web or computer application to analyze the current trends in the stock a user chooses. The app will apply a variety of algorithms to make the analysis of the user easier based on historical data from the exchanges. AI/ML can also be used within these algorithms.
+A web or computer application to analyze the current trends in the stock a user chooses. The app applies a variety of algorithms to make the analysis of the user easier based on historical data from the exchanges. ML is also used within these algorithms.
 <br><br>
       The <i>key features</i> of <strong>stock market analyzer</strong>:
       <ul>
@@ -140,7 +140,7 @@ A web or computer application to analyze the current trends in the stock a user 
 ## 💻Usage
 Once the required setup and installation is completed, you can start developing and running the project.
 
-### For the web-app:
+### For the web-app:  
 1. Backend: Go to the `server` directory and run the `dev` script to activate nodemon
    ```
    $ cd server
@@ -150,14 +150,14 @@ Once the required setup and installation is completed, you can start developing 
    ```
    $ npm run lint
    ```
-   The requests will be listened at the port of `localhost` which was specified in the `.env` file. For example, if it was specified as 5000, the requests should be made at `http://localhost:5000/`  
-   Use the browser or any other API-testing client like [Postman](https://www.postman.com/) or [Insomnia](https://insomnia.rest/) to test any newly added routes.
+   The requests will be listened at the port of `localhost` which was specified in the `.env` file. For example, if it was specified as 5000, the requests should be made at `http://localhost:5000/`  <br> <br>
+   Use the browser or any other API-testing client like [Postman](https://www.postman.com/) or [Insomnia](https://insomnia.rest/) to test any newly added routes.  <br> <br>
 2. Frontend: Go to the `client` directory and run the `start` script to start the React App.
    ```
    $ cd client
    $ npm start
    ```
-   The web-app can be viewed at `http://localhost:3000/`  
+   The web-app can be viewed at `http://localhost:3000/`  <br> <br>
    If you get an ESLint, Tailwind or PostCSS version conflict error, make a `.env` file in the `client` directory with the following contents:
    ```
    SKIP_PREFLIGHT_CHECK = true
