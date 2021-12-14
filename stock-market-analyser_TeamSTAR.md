@@ -80,7 +80,7 @@ A web or computer application to analyze the current trends in the stock a user 
 
 ## 🔮Future Scope:
 - Add a portfolio where a user can create an account and pin the stocks of his interest
-- Improve the searchbar autosuggest performance with a regex-based implementation
+- Improve the searchbar autosuggest performance with a regex-based implementation at the server-side
 - Cache requests at the proxy server for a snappy real-time performance
 
 ## 👩‍💻Contributors
