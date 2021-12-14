@@ -22,6 +22,8 @@
 
 - [About](#about)
 - [Tech Stack](#tech-stack)
+- [Progress](#progress)
+- [Future Scope](#future-scope)
 - [Contributors](#contributors)
 - [Mentors](#mentors)
 
@@ -61,6 +63,25 @@ A web or computer application to analyze the current trends in the stock a user 
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/blob/master/icons/eslint.svg" alt="ESLint" width="31px" height="31px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="" width="31px" height="31px"></a>
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="" width="31px" height="31px"></a>
+
+## 📈Progress:
+- [X] Search any stock and get real-time updates, along with historical data and reviews
+- [X] Autosuggest Searchbar
+- [X] Latest Financial News Section
+- [X] r/WallStreetBets Sentiment Analysis
+- [X] Dark Mode implementation
+- [X] Server-side endpoint
+- [X] API for the linear regression model
+- [ ] API for the ANN model
+- [ ] Hosting the model
+- [ ] Market Dashboard
+- [ ] Linking the predictions page through the REST API for the model
+- [ ] Real-time charts (partially added, dark-mode sync and responsiveness are remaining)
+
+## 🔮Future Scope:
+- Add a portfolio where a user can create an account and pin the stocks of his interest
+- Improve the searchbar autosuggest performance with a regex-based implementation
+- Cache requests at the proxy server for a snappy real-time performance
 
 ## 👩‍💻Contributors
 
