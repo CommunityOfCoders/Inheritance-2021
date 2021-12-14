@@ -123,15 +123,6 @@ A web or computer application to analyze the current trends in the stock a user 
 
 ### For the model:
 
-1. Create a virtual environment on the anaconda command prompt (Install conda if not installed) and then switch to that virtual environment. Lets say the name of the env is test.
-    ```
-    $ conda create -n test python=3.8 anaconda
-    $ conda activate test
-    ```
-2. Enter the directory where you cloned the repo and look for requirments.txt and install the packages.
-   ```
-   $ pip install -r requirements.txt
-   ```
 ### For the Flask API:
 
 ## 💻Usage
@@ -170,7 +161,7 @@ Team members:
 
 - [Toshan Luktuke](https://github.com/toshan-luktuke) - toshan1603@gmail.com
 - [Rushabh Maru](https://github.com/RushabhM03) - rushabh.maru123@gmail.com
-- [Alisha Kamat](https://github.com/alisha-kamat) -
+- [Alisha Kamat](https://github.com/alisha-kamat) - alishakamat8@gmail.com
 - [Sarvagnya Purohit](https://github.com/saRvaGnyA) - sarvagnyapurohit@gmail.com
 
 ## 👨‍🏫Mentors
