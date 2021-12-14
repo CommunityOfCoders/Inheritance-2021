@@ -24,6 +24,7 @@
 - [Tech Stack](#tech-stack)
 - [Progress](#progress)
 - [Future Scope](#future-scope)
+- [Project Setup](#project-setup)
 - [Contributors](#contributors)
 - [Mentors](#mentors)
 
@@ -66,7 +67,7 @@ A web or computer application to analyze the current trends in the stock a user 
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="" width="31px" height="31px"></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" title="Flask"><img src="https://github.com/get-icon/geticon/blob/master/icons/flask.svg" alt="Flask" width="31px" height="31px"></a>
 
-## 📈Progress:
+## 📈Progress
 - [X] Search any stock and get real-time updates, along with historical data and reviews
 - [X] Autosuggest Searchbar
 - [X] Latest Financial News Section
@@ -80,11 +81,32 @@ A web or computer application to analyze the current trends in the stock a user 
 - [ ] Linking the predictions page through the REST API for the model (has been tested on the localhost)
 - [ ] Real-time charts (partially added, dark-mode sync and responsiveness are remaining)
 
-## 🔮Future Scope:
+## 🔮Future Scope
 - Add a portfolio where a user can create an account and pin the stocks of his interest, using MongoDB
 - Improve the searchbar autosuggest performance with a regex-based implementation at the server-side
 - Cache requests at the proxy server for a snappy real-time performance
 - An UpStox-inspired computer application, using ElectronJS
+
+## 🛠Project Setup
+
+### For the web app:
+1. Clone the GitHub repo  
+   ```
+   $ git clone https://github.com/toshan-luktuke/stock-market-analyser.git
+   ```
+   
+2. Enter the `client` directory. Install all the required dependencies. Ensure that remove any globally-installed node packages like the React CLI or ESLint before proceeding ahead  
+   ```
+   $ cd client  
+   $ npm install
+   ```
+3. Repeat the same process for the `server` directory once all the dependencies for the `client` directory are installed  
+   ```
+   $ cd ../server
+   $ npm install
+   ```
+
+### For the model:
 
 ## 👩‍💻Contributors
 
