@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+{% block content %}
+<section class="text-gray-400 bg-gray-900 body-font relative" style="user-select: auto;">
+    <div class="mt-6 container flex flex-wrap mx-auto justify-center w-1/2" style="user-select: auto;">
+        <div class="content-section py-16 px-16 shadow-2xl bg-gray-700 bg-opacity-5 rounded border border-gray-700">
+            <form method="POST" action="">
+                {{ form.hidden_tag() }}
+                <fieldset class="form-group flex flex-wrap justify-center ">
+                    <legend class="text-center sm:text-3xl text-2xl font-medium title-font mb-4 text-white">Reset Password</legend>
+                    <div class="form-group">
+                        <!-- {{ form.email.label(class="form-control-label") }} -->
+                        {% if form.email.errors %}
+                            {{ form.email(placeholder = "Email", class="form-control form-control-lg is-invalid px-5 w-full bg-gray-800 bg-opacity-40 rounded border border-gray-700 focus:border-indigo-500 focus:bg-gray-900 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out my-12") }}
+                            <div class="invalid-feedback">
+                                {% for error in form.email.errors %}
+                                    <span>{{ error }}</span>
+                                {% endfor %}
+                            </div>
+                        {% else %}
+                            {{ form.email(placeholder="Email",class="form-control form-control-lg px-5 w-full bg-gray-800 bg-opacity-40 rounded border border-gray-700 focus:border-indigo-500 focus:bg-gray-900 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out my-12") }}
+                        {% endif %}
+                    </div>
+                </fieldset>
+                <div class="form-group">
+                    {{ form.submit(class="flex mx-auto mt-12 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg") }}
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
+{% endblock content %}
