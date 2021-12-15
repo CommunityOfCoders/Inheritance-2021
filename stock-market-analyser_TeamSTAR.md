@@ -37,7 +37,7 @@
 <table>
   <tr>
     <td>
-A web or computer application to analyze the current trends in the stock a user chooses. The app applies a variety of algorithms to make the analysis of the user easier based on historical data from the exchanges. ML is also used within these algorithms.
+A blazing fast web application to analyze the current trends in the stock a user chooses. The app applies a variety of algorithms to make the analysis of the user easier based on historical data from the exchanges. An ML price predictor is also implemented.
 <br><br>
       The <i>key features</i> of <strong>stock market analyzer</strong>:
       <ul>
@@ -50,8 +50,8 @@ A web or computer application to analyze the current trends in the stock a user 
   </table>
   
 ## 🔗Links
-- [GitHub Repo Link](https://github.com/toshan-luktuke/stock-market-analyser)
-- [Stock Market Analyser](https://stock-market-analyser.vercel.app/)
+- [Stock Market Analyser Vercel App](https://stock-market-analyser.vercel.app/)
+- [GitHub Repo](https://github.com/toshan-luktuke/stock-market-analyser)
 - [Drive link for Recordings & Screenshots](https://drive.google.com/drive/folders/1A4iOlkxtDlkG3PurklooRA8DYiPBIil9)
   
 ## 🤖Tech-Stack
@@ -75,13 +75,14 @@ A web or computer application to analyze the current trends in the stock a user 
 <a href="https://flask.palletsprojects.com/en/2.0.x/" title="Flask"><img src="https://github.com/get-icon/geticon/blob/master/icons/flask.svg" alt="Flask" width="31px" height="31px"></a>
 
 ## 📈Progress
-- [X] Search any stock and get real-time updates, along with historical data and reviews
-- [X] Autosuggest Searchbar
-- [X] Latest Financial News Section
-- [X] r/WallStreetBets Sentiment Analysis
-- [X] Dark Mode implementation
-- [X] Server-side endpoint
-- [X] API for the linear regression model
+
+- [x] Search any stock and get real-time updates, along with historical data and reviews
+- [x] Autosuggest Searchbar
+- [x] Latest Financial News Section
+- [x] r/WallStreetBets Sentiment Analysis
+- [x] Dark Mode implementation
+- [x] Server-side endpoint
+- [x] API for the linear regression model
 - [ ] API for the ANN model
 - [ ] Hosting the model
 - [ ] Market Dashboard
@@ -89,6 +90,7 @@ A web or computer application to analyze the current trends in the stock a user 
 - [ ] Real-time charts (partially added, dark-mode sync and responsiveness are remaining)
 
 ## 🔮Future Scope
+
 - Add a portfolio where a user can create an account and pin the stocks of his interest, using MongoDB
 - Improve the searchbar autosuggest performance with a regex-based implementation at the server-side
 - Cache requests at the proxy server for a snappy real-time performance
@@ -97,17 +99,17 @@ A web or computer application to analyze the current trends in the stock a user 
 ## 🛠Project Setup
 
 ### For the web-app:
-1. Clone the GitHub repo  
+
+1. Clone the GitHub repo
    ```
    $ git clone https://github.com/toshan-luktuke/stock-market-analyser.git
    ```
-   
-2. Enter the `client` directory. Install all the required dependencies. Ensure that remove any globally-installed packages like the React CLI, Tailwind CLI, PostCSS CLI or ESLint are uninstalled before proceeding ahead  
+2. Enter the `client` directory. Install all the required dependencies. Ensure that remove any globally-installed packages like the React CLI, Tailwind CLI, PostCSS CLI or ESLint are uninstalled before proceeding ahead
    ```
-   $ cd client  
+   $ cd client
    $ npm install
    ```
-3. Repeat the same process for the `server` directory once all the dependencies for the `client` directory are installed  
+3. Repeat the same process for the `server` directory once all the dependencies for the `client` directory are installed
    ```
    $ cd ../server
    $ npm install
@@ -123,11 +125,11 @@ A web or computer application to analyze the current trends in the stock a user 
 
 ### For the model:
 
-1. Create a virtual environment on the anaconda command prompt (Install conda if not installed) and then switch to that virtual environment. Lets say the name of the env is test.
-    ```
-    $ conda create -n test python=3.8 anaconda
-    $ conda activate test
-    ```
+1. Create a virtual environment on the anaconda command prompt (Install [conda](https://docs.conda.io/en/latest/) if not installed) and then switch to that virtual environment. Lets say the name of the env is test.
+   ```
+   $ conda create -n test python=3.8 anaconda
+   $ conda activate test
+   ```
 2. Enter the `Model` directory look for requirments.txt and install the packages.
    ```
    $ pip install -r requirements.txt
@@ -138,9 +140,11 @@ A web or computer application to analyze the current trends in the stock a user 
 1. Look for the `main.py` and `test.py` files in the `Model` directory and have them ready. (The packages for flask would already be installed when you run previous command number 2 in the above section)
 
 ## 💻Usage
+
 Once the required setup and installation is completed, you can start developing and running the project.
 
-### For the web-app:  
+### For the web-app:
+
 1. Backend: Go to the `server` directory and run the `dev` script to activate nodemon
    ```
    $ cd server
@@ -150,14 +154,14 @@ Once the required setup and installation is completed, you can start developing 
    ```
    $ npm run lint
    ```
-   The requests will be listened at the port of `localhost` which was specified in the `.env` file. For example, if it was specified as 5000, the requests should be made at `http://localhost:5000/`  <br> <br>
-   Use the browser or any other API-testing client like [Postman](https://www.postman.com/) or [Insomnia](https://insomnia.rest/) to test any newly added routes.  <br> <br>
+   The requests will be listened at the `localhost` port which was specified in the `.env` file. For example, if it was specified as 5000, the requests should be made at `http://localhost:5000/` <br> <br>
+   Use the browser or any other API-testing client like [Postman](https://www.postman.com/) or [Insomnia](https://insomnia.rest/) to test any newly added routes. <br> <br>
 2. Frontend: Go to the `client` directory and run the `start` script to start the React App.
    ```
    $ cd client
    $ npm start
    ```
-   The web-app can be viewed at `http://localhost:3000/`  <br> <br>
+   The web-app can be viewed at `http://localhost:3000/` <br> <br>
    If you get an ESLint, Tailwind or PostCSS version conflict error, make a `.env` file in the `client` directory with the following contents:
    ```
    SKIP_PREFLIGHT_CHECK = true
@@ -168,16 +172,19 @@ Once the required setup and installation is completed, you can start developing 
 1. Locate to the `Model` directory. The models for the project are in `linear_reg_model.py` and `ann_model.py` files.
 
 2. Open the command prompt for anaconda and switch to the virtual environment that you created and locate to the `Model` directory. (example: test)
+
    ```
    $ conda activate test
    ```
 
 3. Open another command prompt for anaconda and switch to the virtual environment that you created and locate to the `Model` directory. (example: test)
+
    ```
    $ conda activate test
    ```
 
 4. To initiate the server, type the following in the first command prompt
+
    ```
    $ python main.py
    ```
