@@ -1,5 +1,5 @@
 # Destination
-Web-Devlopement Project
+Web Devlopement Project
 ## Team Name:Crazy Developers
 
 ## Description
