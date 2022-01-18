@@ -49,6 +49,9 @@ It uses **Firebase Authentication** to Sign Up and Login, **Firebase Database** 
 store images and pdfs.
 
 
+- GitHub repo link: [Link to repository](https://github.com/Tushar-Shirbhate/Hospital-App.git)
+- Drive link: [Drive link here](https://drive.google.com/drive/folders/15K7QTtabR-YxG_Y06GxcOZ07ZzEJuLU_?usp=sharing)
+
 ## Technology Stack
 1.Dart 
 
@@ -66,9 +69,21 @@ store images and pdfs.
 - [x] Call
 - [x] Generating Report
 - [x] Adding and deleting doctors 
-- [ ] Editing profile
-- [ ] Theme changing
 
+## Usage
+1. To use the app clone the repo.
+2. Then run the application in VS Code or Android Studio using an 
+   android emulator or an android phone or an IOS phone.
+3. Then register yourself in the app.
+4. If you are a Hospital then register yourself in the Hospital section using your email-Id.
+5. If you are a Patient then register yourself in the patient section using your email-Id.
+6. In the patient section you will see the list of hospitals from where you can select any hospital you wish to admit.
+7. After clicking on the hospital of your choice you will see the list of doctors in the hospital with their specialization.
+8. You can book an appointment by clicking on the 'Get appointment' button.
+9. You can also book your appointment by directly calling to hospital using calling feature or by messaging the hospital.
+10. For doctors they have to login in their respective hospitals using hospital credentials.
+11. Where they can see appointments of all the doctors in 'Appointments' section.
+12. They can also see the reports in reports section.  
 
 ## Application
 
@@ -91,24 +106,32 @@ quality medication to patients.
 
 ## Onboarding Screens
 
-<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/>  
+<img src="https://drive.google.com/uc?export=view&id=1cFLjQwY2jeBxSXh8dhpYbtjArJWfa5lx"  width="250" height="540"/>  
 
 
 
 ## Authentication Screens
 
-<img src="https://drive.google.com/uc?export=view&id=1w545OKpztlpXipP3CwMdFseqhfBSIA9X"  width="250" height="540"/>  <img src= "https://drive.google.com/uc?export=view&id=1w545OKpztlpXipP3CwMdFseqhfBSIA9X"  width="250" height="540"/>
+
+<img src="https://drive.google.com/uc?export=view&id=1YiSnQcp1Xo6F6oB4DuPaISdSTHdcTaiv"  width="250" height="540"/>  <img src= "https://drive.google.com/uc?export=view&id=1GXSRqqOESlbX2bSzOnMjQ1LoibP8DAfa"  width="250" height="540"/>
 
 
 
 ## Hospital workflow
 
-<img src="https://drive.google.com/uc?export=view&id=1jjEqZCEOFf7sew3wh1QDl7bO6vjGzr0e"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1jZJgw0W8Ui_yrEFQOzuE5-_cE4jSA08D"  width="250" height="540"/>  <img src="https://drive.google.com/uc?export=view&id=1HOYYWjWORxUBWdk6LCE6GkOl7870_-Pt"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1WS47bebKc_j37O2a_du-n7qW3bqd3KRd"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1dL1K-2thIS8cEIemqvfrgstlcEfWRU6D"  width="250" height="540"/>  <img src="https://drive.google.com/uc?export=view&id=1lnTzSbOKHd8iBrcSulAT7F1ATR8RtC_d"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1THxL3uK4qwNqeI-3EpFd9oxe_HKvwsHH"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1mwxqDBMV-EDINs48DQlzN7mXQk13LAR1"  width="250" height="540"/>  <img src="https://drive.google.com/uc?export=view&id=1pxRHkkTY2aIedaYKcOt-JRJNjCWBn-eA"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1vUBVd5IZxASlvNkwNKRtHUa4rfIQx4Mv"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1iTu-vaEoZ_F4up56dBP5vznerTP5SkMT"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1zK1lmTepQ5jLBUibRRd6B1N2WHz6_BrK"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1yLRsn2nbyNysJ6DsY5i0oC8mrMpsLSo1"  width="250" height="540"/>   <img src="https://drive.google.com/uc?export=view&id=1uLG3UFh1EuncRPm1GemzDMn6FGxVAoc9"  width="250" height="540"/> 
+
+<img src="https://drive.google.com/uc?export=view&id=11YPWLK9JOCwFW9r4IjDstgzPGYYqihN8"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1Q1gzqsV-7P-fn6koAroum78gfaDgnPka"  width="250" height="540"/>  <img src="https://drive.google.com/uc?export=view&id=1B3V9KbHAPo1xH2r1vhFZ8COBMVDYB_WH"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=120kyaI4Wi7MFlWty-Ydkrvgga10uw-9T"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1aKGIyaG5auCJ0LGEsEZo2uICoAWjafZB"  width="250" height="540"/>  <img src="https://drive.google.com/uc?export=view&id=16J6e_cy5NdHpg4ZCI7hQIY_aR0Z7fmr1"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1eV3noCByXyoyN2ixslX-zxCxDbPff24-"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1Ho3WBER8n26g8IgqApwVKG8IMe9u0d8g"  width="250" height="540"/> 
 
 
 
 ## Patient workflow
 
-<img src="https://drive.google.com/uc?export=view&id=1SfMwma_5DuAuoYyzLvmRtjYDNgXEQWVH"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1qy96p-9edoYPUpwCLaBv6e0DYaynoOGX"  width="250" height="540"/>  <img src="https://drive.google.com/uc?export=view&id=1VC9KAE2MNS_MiZdtKPfkWTf8BWTDcDtc"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1MNMmqQ1Y_3raeZn3XKIgdAVCp65v0rEz"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1HwZbXUlzZ1oEj5yXUcXuQ8lSgCiIyyP_"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1jmbsUAPbWS27MWU74a2UWcYXHxzUWBGi"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=117drpnktvktrH2O-Mxp8AAR4XxzdETa6"  width="250" height="540"/>  <img src="https://drive.google.com/uc?export=view&id=1Hfhv33jEp9qt6JXlzhq8SJRVpSpE3U2t"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1sWkUktY8F097eGzxsyvyaEjtVNglVuHE"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1QGwt29P-w_XQPRa9hlrgdKPVnW4AW8Jw"  width="250" height="540"/> 
+
+<img src="https://drive.google.com/uc?export=view&id=1bMgH8cW8UTwAeNkU-UkfMSJdHp-RpKlK"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=19ZtHZxI7SC9UQvyYxNOJrU0OAHYP18cp"  width="250" height="540"/>  <img src="https://drive.google.com/uc?export=view&id=1uV7bh8vZILRYOy5FbknHTdKhcBq1ZQdr"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1Y_BrkrXAWNctl-bBnjwrxs0NuUNnsS5Q"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1np_Il-NbFQFGr92L_vnw6chcLcFmMDPF"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1IeGv8m3gaxrZc8FEGnthrO0DNUgMstX6"  width="250" height="540"/> 
   
 
+
+## Report-Chat-Call
+
+
+<img src="https://drive.google.com/uc?export=view&id=10xaddt9Rw1ucYv4uPIWvn9Kb6_01yiVV"  width="250" height="540"/> <img src= "https://drive.google.com/uc?export=view&id=1gHsyv_cEvePDb2zdgsFdz-pvPtZOgqL1"  width="250" height="540"/>  <img src="https://drive.google.com/uc?export=view&id=1D4-MHBzipt_9RCCV1m4Y8xQwKCbfkA_j"  width="250" height="540"/>
