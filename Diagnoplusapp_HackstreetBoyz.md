@@ -28,7 +28,7 @@ chaitanyad192002@gmail.com
 
 [Bhavya Mehta](https://github.com/bhavya092)
 
-[Chinmay Janwalkar](github.com/chinmayj24)
+[Chinmay Janwalkar](https://github.com/chinmayj24)
 
 ## Description
 
@@ -45,13 +45,9 @@ It uses **Firebase Authentication** to Sign Up and Login and **Firebase Database
 ## Languages and Technologies
 1.Dart 
 
-2.HTML
+2.Flutter
 
-3.Swift
-
-4.Flutter
-
-4.Firebase
+3.Firebase
 
 
 ## Tools Used
@@ -67,10 +63,8 @@ It uses **Firebase Authentication** to Sign Up and Login and **Firebase Database
 - [x] Sign up
 - [x] Booking Appointment
 - [x] Medical News
-- [x] Adding and deleting doctors 
 - [x] Profile and log out
-- [ ] Medicine Reminder
-- [ ] Generating Booking Receipt
+- [x] Generating Booking Receipt
 
 
 ## Usage:
@@ -83,31 +77,30 @@ Why feel pain and side effects of missing your medicines, when DIANO+ app can al
 
 
 ## Future Scope
-1. Add search bar
-2. Add Symptom's checker
-3. Add booking prescription
-4. Chat with doctors
-
+1. Add search bar.
+2. Add Symptom's checker.
+3. Chat with doctors.
+4. Medicine reminder.
 
 
 ## Screenshots
 
 ## Login Screen and SignUp Screen
-<img src="https://drive.google.com/uc?export=view&id=1Tb3tQxP4hSlVO2yvXeaX156PtLXW7ZhA"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1TWxfaAcAeN-JrxeoN3Kk7oEMOgBpQESR"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1Tb3tQxP4hSlVO2yvXeaX156PtLXW7ZhA"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1jlitq5vccWb4Ds6PnKWLefqhrvbr_7Rk"  width="250" height="540"/> 
 
 
 
 ## Home Page and side bar
-<img src="https://drive.google.com/uc?export=view&id=1TP4m4nYDFlNW_33SXRGBOFCBdVrDpz2X"  width="250" height="540"/><img src= "https://drive.google.com/uc?export=view&id=1T83gsWVpnIiYnUn-PQJ5iCpC6ppLXblh"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1jX0scWrVEFjTRBpV40o86PSYGhq61Uda"  width="250" height="540"/>    <img src= "https://drive.google.com/uc?export=view&id=1T83gsWVpnIiYnUn-PQJ5iCpC6ppLXblh"  width="250" height="540"/> 
 
 ## Profile
-<img src="https://drive.google.com/uc?export=view&id=1TFWA4JjaLy4079TFo_0SpAm07c_u_zXq"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1kEP6gQExDFoNM-lx4w5Z80Mr5ntpr7kF"  width="250" height="540"/> 
 
 ## Appoitment Page
-<img src= "https://drive.google.com/uc?export=view&id=1T6UpK6x86Knnvwkst5G0OftH4qYxKbNq"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1T7mElqrLWFOOJBmF9WB-TeXMHP0tcjQi"  width="250" height="540"/>  
+<img src= "https://drive.google.com/uc?export=view&id=1j7Zz7ee9fBl9xzqQjSlRyE4h2FxGg1cN"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1joQr7rL4ioZ353gN22jFs3T1Pk9OkGl4"  width="250" height="540"/>  <img src="https://drive.google.com/uc?export=view&id=1jGZNB44gIaZAbo23OHQJFQ7bBXzUPv3H"  width="250" height="540"/>  <img src="https://drive.google.com/uc?export=view&id=1jDy8naQQMZpz3KBG0ly3wkm_snXypCEU"  width="250" height="540"/>
 
 ## News
-<img src="https://drive.google.com/uc?export=view&id=1Tao6vyFUcNgFNKw_1AtGVm9vzEpxcE8I"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1TPijJz0kVan_XaYeY74mntoXL-k89uT7"  width="250" height="540"/> 
+<img src="https://drive.google.com/uc?export=view&id=1jNYDPMHDMjX8hY-GmkcJakeQhgKcpGFP"  width="250" height="540"/> <img src="https://drive.google.com/uc?export=view&id=1jtkEWrpHz0o6vE9T6GGnUxyvaSkWV3M_"  width="250" height="540"/> 
 
 ## About Page
 <img src= "https://drive.google.com/uc?export=view&id=1TBS3bRNJp6lvUzwhe6R-rG9vEFvDMQ0c1"  width="250" height="540"/>  
@@ -115,3 +108,10 @@ Why feel pain and side effects of missing your medicines, when DIANO+ app can al
 ## Log out Popup
 <img src="https://drive.google.com/uc?export=view&id=1T4aARapEhaDospUAehh0NdIMBfkDHFw3"  width="250" height="540"/> 
 
+## Demo Recording and apk file
+
+https://drive.google.com/drive/folders/1t9E1gUFWgu8jsA4Boe9rY2UH50XW5Dla?usp=sharing
+
+## Github Repository
+
+https://github.com/ritishzalke/DiagnoPlus
