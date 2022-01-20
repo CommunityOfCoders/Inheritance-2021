@@ -22,7 +22,6 @@ We have completed the login page .
 ![Test Image](https://github.com/Pixels123priyal/QuizTime/blob/main/QuizTime_ss.png)
 <br/>
 ![Test Image](https://github.com/Pixels123priyal/QuizTime/blob/main/QizTime_ss_2.png) <br/>
-
 ## Features left to be implemented:<br/>
 We are left with adding the questions and some relative statistics and the interface of the result of the quiz.
  -->
@@ -36,7 +35,7 @@ This quiz website can be used for the evaluation of students with the time limit
 
 * GitHub repo link: [Link to repository](https://github.com/Pixels123priyal/QuizTime.git)
 * Drive link: [Drive link here](https://drive.google.com/drive/folders/1goCLRT4TwAn7DvZJqpD8Uka0tzss3LfH?usp=sharing)
-* Website link: [Website link here](www.google.com)
+* Website link: [Website link here](https://pixels123priyal.github.io/QuizTime/)
 
 ## Technology stack
 
@@ -55,16 +54,14 @@ Tools and technologies that you learnt and used in the project.
 ## Future scope
 > We need to work on the backend part as to store the details and score of the all participants and give them an overall progress statistics.
 ## Screenshots
-
-![ss1](https://drive.google.com/file/d/1z3kJkvado07Ob1RnEzyiZFXP39dAIK2T/view?usp=sharing)
+![ss1](ss1.png)
 <br/>
-![ss2](https://drive.google.com/file/d/1VntSaM30Mb44tRg9XuCSCDSYEkbLONZl/view?usp=sharing)
+![ss2](ss2.png)
 <br/>
-![ss3](https://drive.google.com/file/d/1mKpLl7eLDzL_RhXduCJlXzVJvbr6uZDQ/view?usp=sharing)
+![ss3](ss3.png)
 <br/>
-![ss4](https://drive.google.com/file/d/1NcfH1kMcXsmBJ60kcXyVORjJQcKL61NM/view?usp=sharing)
+![ss4](ss4.png)
 <br/>
-![ss5](https://drive.google.com/file/d/14niixlHygZmqZOyiRiSY3Noy11GRTIIh/view?usp=sharing)
+![ss5](ss5.png)
 <br/>
-
 
