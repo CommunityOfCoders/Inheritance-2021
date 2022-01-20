@@ -61,9 +61,16 @@ https://user-images.githubusercontent.com/88549231/146310036-1f41d4a5-31ef-4a0b-
 
 
 ## 🔗 Links
+[![Drive](https://img.shields.io/badge/download_apk-1DA1F2?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/uc?export=download&id=1KyMAgAS3c0rn_pEwiWhSmCPDScXpyrcq)
+
 [![Github](https://img.shields.io/badge/github_repo_link-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishuprem99/Gossipers-)
 
+
+
 [![Drive](https://img.shields.io/badge/Screenshots-1DA1F2?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1q5jqe7uw-3IVV9adIsyay8Rs9Tbo2Ul0?usp=sharing)
+
+
+
 
 
 
