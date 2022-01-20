@@ -39,6 +39,13 @@ Tools and technologies that you learnt and used in the project.
 
 > Easy and free solution to consent banner, cookie and privacy policy
 
+## Screenshots for reference
+![Screenshot (400)](https://user-images.githubusercontent.com/90513877/150406953-da19ea85-a4ad-4e47-956b-2f6800b537a2.png)
+
+![ss1](https://user-images.githubusercontent.com/90513877/150407603-53ec71a5-e6de-498d-afed-1897ace2baf5.png)
+
+![ss3](https://user-images.githubusercontent.com/90513877/150407911-c13c18ed-a7bd-472d-a8c1-32c2c80f1a84.png)
+
 ## Future scope
 
 > We are planning to add different privacy policies with respect to the region and we are going to provide user an accurate and concise cookie and privacy policy .Planning to add a consent banner to improve the user experience of the site.
