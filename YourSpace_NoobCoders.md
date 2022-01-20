@@ -93,7 +93,7 @@ In short it is a website which is totally user personalized with some services f
  <br>
 +  <a href="https://expressjs.com/" title="Express JS"><img src="https://raw.githubusercontent.com/Anshika321/YOUR-SPACE/eaa3b46203618ba617942d1ad4b8f22ee91bfad9/Project%20Files/public/images/expressjs.svg" alt="Node JS" width="70px" height="70px"></a>
  <br>
-+ <a href="https://mongoosejs.com/" title="Mongoose JS"><img src="https://raw.githubusercontent.com/Anshika321/YOUR-SPACE/main/Project%20Files/public/images/mongoose.png" alt="Node JS" width="100px" height="70px"></a>
++ <a href="https://mongoosejs.com/" title="Mongoose JS"><img src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg" alt="Mongoose" width="100px" height="70px"></a>
 </p>
 
 ## APIs USED 
