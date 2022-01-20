@@ -13,7 +13,7 @@
 **greenPaddle** is basically a cycle renting website. It also contains places to explore while cycling, cycling accessories which you can buy, notify about different cycling competions, provide safer cycling routes. It helps in keeping enviornment green.
 * [Github repo link](https://github.com/harshilshah99/greenPaddle.git)
 * [Drive link](https://drive.google.com/drive/folders/1K0E1go9V3sBLNMMyghJflSrspOY1ZSlf?usp=sharing)
-* [Website link](https://greenpaddle.000webhostapp.com/)
+* [Website link](https://reverent-yalow-4ee88e.netlify.app)
 ## Technology Stack
 Technology learnt during this project:
 1. HTML
