@@ -54,14 +54,14 @@ Tools and technologies that you learnt and used in the project.
 ## Future scope
 > We need to work on the backend part as to store the details and score of the all participants and give them an overall progress statistics.
 ## Screenshots
-![ss1](ss1.png)
+![ss1](https://github.com/Pixels123priyal/QuizTime/blob/main/ss1.png)
 <br/>
-![ss2](ss2.png)
+![ss2](https://github.com/Pixels123priyal/QuizTime/blob/main/ss2.png)
 <br/>
-![ss3](ss3.png)
+![ss3](https://github.com/Pixels123priyal/QuizTime/blob/main/ss3.png)
 <br/>
-![ss4](ss4.png)
+![ss4](https://github.com/Pixels123priyal/QuizTime/blob/main/ss4.png)
 <br/>
-![ss5](ss5.png)
+![ss5](https://github.com/Pixels123priyal/QuizTime/blob/main/ss5.png)
 <br/>
 
