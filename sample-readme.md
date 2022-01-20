@@ -25,7 +25,7 @@ Along with this, add the link of the drive folder that contains the app APK/Scre
 
 * GitHub repo link: [Link to repository](https://github.com/your-repo-link)
 * Drive link: [Drive link here](https://drive.google.com/)
-* Website link: [Website link here](www.google.com) (for final submission, optional)
+* Website link: [Website link here](www.google.com)
 
 ## Technology stack
 
@@ -36,24 +36,18 @@ Tools and technologies that you learnt and used in the project.
 3. Framework-1
 4. Framework-2 (Add or remove as required)
 
-## Progress
-
-- [x] Feature 1
-- [x] Feature 2
-- [x] Feature 3
-- [ ] Feature 4
-- [ ] Feature 5
-
-List down all the tasks/features for your project and cross out the ones which are completed.
-
 ## Project Setup
 >Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
+
 ## Usage
 >Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
+
 ## Applications
 >How can your project do its part in solving a real-life problem? What are its possible applications? Describe here.
+
 ## Future scope
 >Mention ways in which the project can be improved and built upon in the future.
+
 ## Screenshots
 Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
 
