@@ -39,4 +39,16 @@ The application has the following features:
 - Firebase
 
 ### **GITHUB REPO** - [PLANit](https://github.com/Madhura-saw/PLANit)
-### **DRIVE LINK** - [PLANit_Drive](https://drive.google.com/folderview?id=1uebAB5SDx_1hYz31yiZxvf6S2etf4KD3)
+### **DRIVE LINK** - [PLANit_Drive](https://drive.google.com/drive/u/0/folders/1MbgwVa9YpQw-VO38hTs-j07FLkWWYQXA)
+
+
+### **Screenshots**
+![Slay it with PLANit](https://user-images.githubusercontent.com/85047752/150380478-1f65014d-ff1d-436a-8bf1-b77571473efd.png)
+![2](https://user-images.githubusercontent.com/85047752/150369227-af71f781-bfbd-4c87-9a9a-65d43bf62696.png)
+![3](https://user-images.githubusercontent.com/85047752/150369235-16d7e1ba-2b7a-4152-9ca2-13746f6509ac.png)
+![4](https://user-images.githubusercontent.com/85047752/150369247-821f96b4-eeca-4031-83fd-0c728eaf20a9.png)
+
+### **Tree Structure**
+![Tree Structure PLANit](https://user-images.githubusercontent.com/85047752/150378221-b679a9f2-9861-4f28-8f4d-ad1927e6929f.jpeg)
+
+
