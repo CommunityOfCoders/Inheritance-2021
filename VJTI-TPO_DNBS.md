@@ -23,8 +23,8 @@ The website focuses on internships and placements and is responsible for connect
 ## 🔗 Links
 
 - GitHub repo link: [Link to repository](https://github.com/bbhavik16/TPO-Website)
-- Drive link (Demo Video): [Drive link here](https://drive.google.com/drive/u/1/folders/1wn_DjAUL4LQaKjYjPfloq5pJjEBjiAOJ)
-- Model link: [Deployed link here](https://vjti-tpo.herokuapp.com/)
+- Drive link (Screenshots): [Drive link here](https://drive.google.com/drive/u/1/folders/1wn_DjAUL4LQaKjYjPfloq5pJjEBjiAOJ)
+- Website link: [Deployed link here](https://vjti-tpo.herokuapp.com/)
 
 ## 🤖 Technology Stack
 
@@ -36,8 +36,8 @@ The website focuses on internships and placements and is responsible for connect
 </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<a href="http://www.passportjs.org/" target="_blank"> <img src="https://miro.medium.com/max/1400/1*B0ZueS6zQg_ZG2d-sxfVQA.jpeg" alt="mongodb" width="40" height="40"/>
-
+<a href="http://www.passportjs.org/" target="_blank"> <img src="https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_676b436fcf47e71b1f85cbd8d318a080.png" alt="passport js" width="40" height="40"/>
+<a href="https://ejs.co/" target="_blank"> <img src="https://www.kindpng.com/picc/m/463-4639889_logo-ejs-hd-png-download.png" alt="ejs" width="40" height="40"/>
 
 ## 🛠️ Project Setup
 
