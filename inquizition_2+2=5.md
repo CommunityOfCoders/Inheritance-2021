@@ -12,8 +12,7 @@
 ## 👨‍🏫 Mentors
 * saksham tikoo
 * ayush pattnaik
-* aayush 
-		
+* aayush
 
 ## 📝 Description
 It is essentially a quiz app with various topics in it. On selecting a particular topic randomly 5 questions will be selected from a pool of questions.
@@ -34,7 +33,7 @@ Along with this, add the link of the drive folder that contains the app APK/Scre
 - [x] Firebase authentication(using email)
 - [x] multiple topics(for example basis we have done only 2 for now) 
 - [ ] timer for each question
-- [ ] Firestore database 
+- [x] Firestore database 
 - [ ] Advanced ui/ux
 - [ ] PvP(if possible)
 		
