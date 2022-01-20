@@ -1,2 +1,0 @@
-# Noteit
-for inheritance project
