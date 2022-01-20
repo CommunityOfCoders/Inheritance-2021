@@ -1,4 +1,3 @@
-
 # Tickles
 #### _An application to edit images and post them on the application itself or share them on other apps(WhatsApp, Facebook, Instagram, etc) with your family, friends or others._
 
@@ -42,11 +41,9 @@ users can add a like or share on other apps.
 * Flutter SDK
 
 ***
-## File Structure
 
-
-***
 ## Future Scope
+* Users can use readymade templates on the app to edit images.
 * Users can follow each other on the app.
 * Chat area for users to  share tickles to each other on the app itself.
 
@@ -55,7 +52,8 @@ users can add a like or share on other apps.
 # Coding Noobs
 
 ## Team members
- * Amanpreet Kaur Bains (akbains36@gmail.com) 
+
+ * Amanpreet Kaur Bains (akbains36@gmail.com)
  * Amey Bhatuse (ameybhatuse315@gmail.com)
  * Jay Sawant (jay.sawant2017@gmail.com)
  * Shubham Salunkhe (shubhamtssalunkhe@gmail.com)
