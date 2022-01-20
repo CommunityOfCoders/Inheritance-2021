@@ -1,7 +1,6 @@
 
  <h1 align="center">YOUR SPACE</h1>
-<p align = "center" ><img width="200" src="  
-https://github.com/Anshika321/YOUR-SPACE/blob/main/Project%20Files/public/images/logo.png?raw=true"> </p>
+<p align = "center" ><img width="200" src="https://github.com/Anshika321/YOUR-SPACE/blob/main/Project%20Files/public/images/logo.png?raw=true"> </p>
 
 
 ##           Team-Name:  <u>*NOOB CODERS*</u>
@@ -139,7 +138,7 @@ npm install
 
 ![Our CHART](https://www.linkpicture.com/q/Screenshot-63_4.png)
 ---
-![Homescreen](https://raw.githubusercontent.com/Anshika321/YOUR-SPACE/main/Project%20Files/public/images/y_homepage.jpg)
+![Homescreen](https://www.linkpicture.com/q/Screenshot-from-2022-01-20-22-59-24.png)
 ---
 ---
 ![cards](https://www.linkpicture.com/q/Screenshot-from-2022-01-20-22-58-58.png)
@@ -149,13 +148,13 @@ npm install
 ![Current Affairs](https://www.linkpicture.com/q/Screenshot-from-2021-12-15-21-24-39.png)
 ---
 ---
-![Notes Taking](https://raw.githubusercontent.com/Anshika321/YOUR-SPACE/main/Project%20Files/public/images/y_notemake.jpg)
+![Notes Taking](https://www.linkpicture.com/q/Screenshot-from-2022-01-20-22-59-34.png)
 ---
 ---
 ![To-Do List](https://www.linkpicture.com/q/Screenshot-from-2022-01-20-22-59-31.png)
 ---
 ---
-![Sign-in](https://raw.githubusercontent.com/Anshika321/YOUR-SPACE/main/Project%20Files/public/images/y_login.jpg)
+![Sign-in](https://www.linkpicture.com/q/Screenshot-from-2022-01-20-23-01-05_1.png)
 ---
 ---
 ![WORDS-WORLD](https://www.linkpicture.com/q/Screenshot-from-2022-01-20-23-00-55.png)
