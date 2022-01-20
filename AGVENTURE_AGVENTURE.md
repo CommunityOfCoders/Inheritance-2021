@@ -1,4 +1,5 @@
 # Project-AGVENTURE
+<img src="https://drive.google.com/uc?export=view&id=1YFWRLRvzVFR5CfP_inLaauDh4hqpk70P"  width="700" height="175"/>
 
 ### Team name: AGVENTURE
 
@@ -23,8 +24,8 @@ And this app gives a platform to the farmers and nursery owners to sell their pr
 * Agventure will help to both buyer and seller, buyer can buy any products online and can also see which products are present in his nearby nursery . He can register in agventure can add his nursery and product
 
 
-* GitHub repo link: [Link to repository](https://github.com/your-repo-link)
-* Drive link: [Drive link here](https://drive.google.com/drive/folders/1ezwK5srujWD41gDbZ-5r0er55greIEVU?usp=sharing/)
+* GitHub repo link: [Link to repository](https://github.com/atharvayesansure812/Nursery-Management-Agventure-)
+* Drive link: [Drive link here](https://drive.google.com/drive/folders/1Yvb3krXtYGjWxBVAP9pb3IO2Qi_Rur2b?usp=sharing/)
 
 
 ## Technology stack
@@ -35,18 +36,22 @@ Tools and technologies that you learnt and used in the project.
 2. Framework- Flutter
 3. Firebase
 
-## Progress
+## PROJECT SETUP
+>STEP1: OPEN THIS DRIVE LINK .[Drive link here](https://drive.google.com/drive/folders/1Yvb3krXtYGjWxBVAP9pb3IO2Qi_Rur2b?usp=sharing/)
 
-- [x] WELCOME PAGE
-- [x] LOGIN PAGE
-- [x] SIGNUP PAGE
-- [x] PROFILE BAR
-- [X] SEARCH BAR
-- [X] CATEGORY(GRID VIEW) OF NURSERIES
-- [X] CATEGORY(GRID VIEW) OF PLANTS
-- [X] INDIVIDUAL PAGES FOR PRODUCTS WITH DESCRIPTION
-- [ ] CART PAGE
-- [ ] CHECKOUT PAGE
+>STEP2: INSTALL THE APK FILE.
+
+>STEP3: NOW YOU CAN USE THE APP.
+
+https://user-images.githubusercontent.com/81099282/150178957-62027f2f-6de3-4387-a731-0ae1178a1c83.mp4
+
+
+## USAGE
+> ON THE HOME PAGE THERE ARE TWO BUTTONS.
+
+
+> FIRST ONE IS FOR BUYER AND SECOND ONE IS FOR USER
+
 
 ## Applications
 >Agventure will help both the buyer as well as the seller, buyer can buy any products online and can also see which products are present in his nearby nursery . The seller can register in this app and can add his/her nursery and product.
@@ -55,15 +60,67 @@ Tools and technologies that you learnt and used in the project.
 >2. Order Tracker
 
 ## Screenshots
-<img src="https://drive.google.com/uc?export=view&id=1Bt9RXFKUrV7coV8rwiAv5VzEjPJgD83I"  width="250" height="540"/>
-<img src="https://drive.google.com/uc?export=view&id=1D3haTrlrf9d0m0QdPfpg-vioiZ1-OE1t"  width="250" height="540"/>
-<img src= "https://drive.google.com/uc?export=view&id=18jnyJODhXE-5dP28wvn3nluNA8GMy3fN"  width="250" height="540"/> 
-<img src="https://drive.google.com/uc?export=view&id=1hJTn4NmvdO4gM8azqsoBpbVXqbrfasKU"  width="250" height="540"/> 
-<img src="https://drive.google.com/uc?export=view&id=137MbPUyAUuRsxNLzmi5vucEhaCPnbHp0"  width="250" height="540"/>
-<img src="https://drive.google.com/uc?export=view&id=1mojHoy0TrcEN4wTUfFeS_tT577vNoSBU"  width="250" height="540"/>
-<img src="https://drive.google.com/uc?export=view&id=1X7yr-PRQIUEGxW26eWpMTxJ3y-dCtBtB"  width="250" height="540"/>
-<img src="https://drive.google.com/uc?export=view&id=1b3Dx9TWyVRkhlGCFrty_nXEsRiKsKLRi"  width="250" height="540"/>
-<img src="https://drive.google.com/uc?export=view&id="  width="250" height="540"/>
-<img src="https://drive.google.com/uc?export=view&id="  width="250" height="540"/>
+## HOME PAGE
+<img src="https://drive.google.com/uc?export=view&id=1RxvzLnxvH2qJUJIbm6VBCfZ3BXalOfHk"  width="250" height="540"/>
+
+<img src="https://drive.google.com/uc?export=view&id=14DIRqoa52If8nPx_C3qYvh7bg-4kCE6p"  width="700" height="125"/>
+
+## BUYER SECTION
+<img src="https://drive.google.com/uc?export=view&id=1zEWhzyXc6ogPXW1u9exKm8jUZ30AAtsJ"  width="250" height="540"/>
+
+## FORGOT PASSWORD
+<img src= "https://drive.google.com/uc?export=view&id=1CS7d5IgrUHP5vGraP-EbEgmRvC9KIrd2"  width="250" height="540"/> 
+
+## REGISTRATION 
+<img src="https://drive.google.com/uc?export=view&id=1iy08rrlVvYbJpahBeBi1REUr0nT-NyoE"  width="250" height="540"/>
+
+## HOME(BUYER)
+<img src="https://drive.google.com/uc?export=view&id=1JgeJlrgdxMcIXkn8PiSq_vYz3ie4h90p"  width="250" height="540"/>
+
+## ACCOUNT INFORMATION
+<img src="https://drive.google.com/uc?export=view&id=18rZh-67B0BgF62tLy5ucT4LgB-Xx9UWC"  width="250" height="540"/>
+
+## PRODUCTS PAGE
+<img src="https://drive.google.com/uc?export=view&id=19tJLkFH-ZqTkP-Mg20NV4tTu1KgvX0K6"  width="250" height="540"/>
+
+## PRODUCT DETAIL
+<img src="https://drive.google.com/uc?export=view&id=1k-JtxJU8IhUjont821eGa2gWRwJSONu_"  width="250" height="540"/>
+
+## ORDER SUMMARY
+<img src="https://drive.google.com/uc?export=view&id=1ARLEDFsCAhXEEjQvV35KghhYSy_CIlTs"  width="250" height="540"/>
+
+## DRAWER
+<img src="https://drive.google.com/uc?export=view&id=1qfzznt8k_CWCZJXV0IxrLshAe5iqdNmh"  width="250" height="540"/>
+
+## SHOPPING CART
+<img src="https://drive.google.com/uc?export=view&id=1RuDNGKpOy8RVes8Wge9fywaNx6HDit6g"  width="250" height="540"/>
+
+## ORDERED ITEMS
+<img src= "https://drive.google.com/uc?export=view&id=11LJSnV-VZ5K8t0qomPvFRuT8NHdNx7ZM"  width="250" height="540"/> 
+
+<img src= "https://drive.google.com/uc?export=view&id=10DmTGidRXXerEZ5uhlmMupOeYHslfbAB"  width="700" height="125"/> 
+
+## LOGIN PAGE
+<img src="https://drive.google.com/uc?export=view&id=1ukaIe7CV2E5ezVnDN-P3nRTyfl-ZGxSD"  width="250" height="540"/>
+
+## NURSERY REGISTRATION
+<img src="https://drive.google.com/uc?export=view&id=1HF_5byU5LAXqJxwqC9BMRksQ04vDbgHO"  width="250" height="540"/>
+
+## ADD PRODUCTS
+<img src="https://drive.google.com/uc?export=view&id=1QbX1vs9gbCkQIjBxDjpHWBNnSzmHV_IR"  width="250" height="540"/>
+
+## SELECT YOUR NURSERY
+<img src="https://drive.google.com/uc?export=view&id=1lDtk5rNOjNYd5Qu7tYB9BLA8Wn5DS_tJ"  width="250" height="540"/>
+
+## SEE YOUR NURSERY PRODUCTS
+<img src="https://drive.google.com/uc?export=view&id=1KteSGOw2vfPQRkcNH-Zy7kDkclJQbjDg"  width="250" height="540"/>
+
+## CONTACT US
+<img src="https://drive.google.com/uc?export=view&id=1dxrCjwgLEE7meUxoJsBO9pTjlRzjHpvp"  width="250" height="540"/>
+
+## THANK YOU
+<img src="https://drive.google.com/uc?export=view&id=1O82BkAKNyfDuJ031shqiwmHwhoNqkJs9"  width="700" height="175"/>
+
+
 
 

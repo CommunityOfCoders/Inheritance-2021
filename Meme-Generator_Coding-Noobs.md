@@ -1,5 +1,5 @@
 # Tickles
-### _An application to edit images and post them on the application itself or share them on other apps(WhatsApp, Facebook, Instagram, etc) with your family, friends or others._
+#### _An application to edit images and post them on the application itself or share them on other apps(WhatsApp, Facebook, Instagram, etc) with your family, friends or others._
 
 ## We have a special term for images edited and/or posted on our app!
 
@@ -16,7 +16,9 @@ users can add a like or share on other apps.
 - **Let's Tickle**
   * App has a image-editor section where user can  
      * crop images using various ratios( original, 1:1, 16:9, 4:3 )
-     * add text with resizing options 
+     * use various grids(single picture, 2 in 1, 3 in 1, 4 in 1, 6 in 1) to create a collage of images
+     * add in-built **_templates_** or use custom _templates_ into the grid to make your tickles more interesting.
+     * add text with resizing options  
      * add doodles of any chosen colour
      * add emojis to the image. 
   * Post it on the app 
@@ -39,6 +41,7 @@ users can add a like or share on other apps.
 * Flutter SDK
 
 ***
+
 ## Future Scope
 * Users can use readymade templates on the app to edit images.
 * Users can follow each other on the app.
@@ -49,6 +52,7 @@ users can add a like or share on other apps.
 # Coding Noobs
 
 ## Team members
+
  * Amanpreet Kaur Bains (akbains36@gmail.com)
  * Amey Bhatuse (ameybhatuse315@gmail.com)
  * Jay Sawant (jay.sawant2017@gmail.com)
@@ -63,4 +67,6 @@ users can add a like or share on other apps.
 ### GitHub Repo link - PLease click [here](https://github.com/Amey-2002/Meme_G)
 
 ### Drive Link for images and videos - PLease click [here](https://drive.google.com/folderview?id=101jofQt-L8cCBJA4LPViHB-igglA6mJ-)
+
+### Drive Link for apk file of app - Please click [here](https://drive.google.com/folderview?id=1EMop9ywGfYCOQtxCtUo2eK9VJT2fzIps)
 
