@@ -56,11 +56,10 @@ Tools and technologies that you learnt and used in the project.
 > We need to work on the backend part as to store the details and score of the all participants and give them an overall progress statistics.
 ## Screenshots
 
-![ss1](https://drive.google.com/file/d/1z3kJkvado07Ob1RnEzyiZFXP39dAIK2T/view?usp=sharing"Here is a screenshot")
+![ss1](https://drive.google.com/file/d/1z3kJkvado07Ob1RnEzyiZFXP39dAIK2T/view?usp=sharing)
 ![ss2](https://drive.google.com/file/d/1VntSaM30Mb44tRg9XuCSCDSYEkbLONZl/view?usp=sharing)
 ![ss3](https://drive.google.com/file/d/1mKpLl7eLDzL_RhXduCJlXzVJvbr6uZDQ/view?usp=sharing)
 ![ss4](https://drive.google.com/file/d/1NcfH1kMcXsmBJ60kcXyVORjJQcKL61NM/view?usp=sharing)
 ![ss5](https://drive.google.com/file/d/14niixlHygZmqZOyiRiSY3Noy11GRTIIh/view?usp=sharing)
 
-Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.
-For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
+
