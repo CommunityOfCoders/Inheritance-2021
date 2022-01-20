@@ -89,7 +89,7 @@ After setting up for Web App, follow the below instructions to get it running.
 nodemon app.js
 ```
 
-3. Open [localhost:3000/](localhost:3000/) in your browser to use TPO.
+3. Open (localhost:3000/) in your browser to use TPO.
 
 ## 🔮 Future Scope
 
