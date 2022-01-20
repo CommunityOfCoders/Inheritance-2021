@@ -1,10 +1,11 @@
 # greenPaddle
 ## Team name: Mighty Developers
 ## Team members
-* Harshil Shah - hvshah_b20@ce.vjti.ac.in
-* Chaitya Vora - cnvora_b20@ce.vjti.ac.in
-* Jinay Mehta - jrmehta_b20@ce.vjti.ac.in
-* Abhishek Patingrao - abpatingrao_b20@pe.vjti.ac.in
+* Harshil Shah - vharshilshah19052002@gmail.com [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/harshil-shah-6776a221b)
+* Chaitya Vora - chaityavora02@gmail.com [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/chaitya-vora-90693b202)
+* Jinay Mehta - mehtajinay151@gmail.com [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jinay-mehta-584590216)
+*  Abhishek Patingrao -itsabhi.rao@gmail.com [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abhishekpatingrao/)
+
 ## Mentors
 * Vaishnavi Shah
 * Siddharth Shah
@@ -27,8 +28,8 @@ Technology learnt during this project:
 - [x] Creating Home page
 - [x] Creating Contact form with a database
 - [x] Creating Add accessories page
-- [ ] Creating Places to explore page
-- [ ] Sending Emails to subscribers
+- [x] Creating Places to explore page
+- [x] Sending Emails to subscribers
 ## Project Setup
 * First of all you need to have nodeJs and mongoDB installed on your laptop.
 * Then you need to clone the repo to your laptop.
@@ -44,3 +45,4 @@ Technology learnt during this project:
   > This website helps user to rent a bicycle whenever they need and also for whatever period of time at low rates. Cycling can keep you healthy and also help to discover new places around. It also heps in keeping the enviornment green.
 ## Future Scopes 
   > Safer routes can be added , for safer cycling experience. Chatbot can be added for 24x7 help.
+
