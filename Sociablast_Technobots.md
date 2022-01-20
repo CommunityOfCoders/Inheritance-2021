@@ -1,10 +1,18 @@
 # **SOCIABLAST**
 
-A chat+bot with amazing features!
+<div align="center">
+   <strong>SOCIABLAST</strong> -A chat+bot with amazing features!. <br>
+  Inheritance '21 - Team Technobots <br> <br>
+  <a href="https://github.com/Neel-Shah-29/SOCIABLAST/stargazers"><img alt="GitHub issues" src="https://img.shields.io/github/stars/Neel-Shah-29/SOCIABLAST"></a>
+  <a href="https://github.com/Neel-Shah-29/SOCIABLAST/network/members"><img alt="GitHub stars" src="https://img.shields.io/github/forks/Neel-Shah-29/SOCIABLAST"></a>
+  <a href="https://github.com/Neel-Shah-29/SOCIABLAST/issues"><img alt="GitHub contributors" src="https://img.shields.io/github/issues/Neel-Shah-29/SOCIABLAST"></a>
+</div>
 
 #### Team Name : **Technobots**
 
-![image](https://user-images.githubusercontent.com/84740927/146228682-b95883c8-75e4-42aa-a453-1d495d9f161b.png)
+![image](https://user-images.githubusercontent.com/84740927/150295636-992b2691-0b6b-406a-926b-aae0d5f97b91.png)
+
+![ss1](https://user-images.githubusercontent.com/84740927/150291855-a2ef4a4f-8968-4a10-89c9-1f655e46f811.jpeg)
 
 
 ## 👩‍💻 Team members
@@ -17,12 +25,18 @@ A chat+bot with amazing features!
 ## 👨‍🏫 Mentors
 
 - **Ravi Maurya**
-- **Pankaj Khushlani**
+- **Pankaj Khushalani**
 - **Azeez Dandawala**
 
 ## 📝 Description
 
 ### SOCIABLAST!
+
+People can **chat** , send **images** , execute various **bot feactures** in the chat room discussion. We have also created a great chat room system configuration with high security of **Login** and **Password** for each user. Appropriate validations are also applied to Login and Password.
+
+![login](https://user-images.githubusercontent.com/84740927/150297063-2490c634-100a-46b9-ab06-fc726626b9ec.png)
+
+
 Making an application with chat + bot considering the following features COMMANDS:-
 (Implemented sucessfully)
 
@@ -31,16 +45,15 @@ Making an application with chat + bot considering the following features COMMAND
 3) .lyrics
 4) .time
 5) .currency
-
-(Yet to be implemented)
-
-1) .voice line
-2) .sticker
-3) .song name
-4) .meme
-5) .covid
-6) .stocks
+6) .covid
 7) .reminder
+8) .stocks
+
+![image](https://user-images.githubusercontent.com/84740927/150296115-7920d057-25db-497e-9c6f-26f9ee12b997.png)
+
+Users can also send the images in the chat room joined.
+
+
 
 
 ## 🔗 Links
@@ -62,16 +75,41 @@ Making an application with chat + bot considering the following features COMMAND
 git clone https://github.com/Neel-Shah-29/SOCIABLAST.git
 
 ```
-
+To start the frontend user interface
+```
+cd client
+npm install
+npm start
+```
+To start the backend server
+```
+npm install
+npm start
+```
 
 
 ## 🖼 Screenshots
-![478d2769-fc45-4c4e-9e3a-e61f488d93bd](https://user-images.githubusercontent.com/84740927/146227468-f0162c72-eeab-4d56-a032-f8b8fd6d0139.jpg)
-![2c03f825-badc-423e-ab9f-ad50a56bff0f](https://user-images.githubusercontent.com/84740927/146227718-f35c5835-d5b5-4baf-8e8d-ce91995c0176.jpg)
-![image](https://user-images.githubusercontent.com/84740927/146227980-4196238f-ffd2-465b-96c2-00fff60e0929.png)
-![83dae183-a745-4e55-8504-eccc7aaf1f45](https://user-images.githubusercontent.com/84740927/146227515-4225a726-1415-4df1-8eff-d4c50074c135.jpg)
-![ff0f2431-d202-4a7b-82a5-c69757321d24](https://user-images.githubusercontent.com/84740927/146227668-bc70caea-3be8-4850-bc8a-3d54ee954a4f.jpg)
-![d7433992-3b7f-48f2-b83d-1914e725590e](https://user-images.githubusercontent.com/84740927/146227693-fba68de4-1cf5-4c35-bead-d529610b00e6.jpg)
+
+![WhatsApp Image 2022-01-20 at 1 18 39 PM](https://user-images.githubusercontent.com/84740927/150296409-1f502c9d-6378-4585-8142-87a4ac17ed06.jpeg)
+
+![WhatsApp Image 2022-01-20 at 1 18 39 PM](https://user-images.githubusercontent.com/84740927/150296538-9e714695-5e77-45d1-b60b-be0b4d056d36.jpeg)
+
+![image](https://user-images.githubusercontent.com/84740927/150296651-d99e0341-cd36-4d96-a9bb-90b970887a5f.png)
+
+![image](https://user-images.githubusercontent.com/84740927/150296769-f9c866c3-c151-4aa6-8105-cf7cadad3d3d.png)
+
+![image](https://user-images.githubusercontent.com/84740927/150296794-a10502f5-6f68-488e-9f0e-383b7b8ef0b2.png)
+
+![image](https://user-images.githubusercontent.com/84740927/150296831-992cd43f-0a82-4dfe-9366-f1f12f151555.png)
+
+## Demo Video Drive Link
+https://drive.google.com/file/d/1NgQ4JyFTRaFYtzACkFk2x64H6GFTZxEt/view?usp=sharing
+
+## Future Work
+
+- [ ] There are many bot feactures that can be implemented like .stickers , .emoji , .news and much more. Whatever user thinks can be implemented.
+- [ ] The User Interface can be made more user friendly though we have tried to create an execellent UI as per our imagination.
+- [ ] Storage of messages sent and recieved in a given chat room in the local computer as the messages and data is lost once we refresh the screen.
 
 
 
