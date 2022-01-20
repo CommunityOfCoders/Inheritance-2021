@@ -65,3 +65,4 @@ Tools and technologies that you learnt and used in the project.
 ![ss5](https://github.com/Pixels123priyal/QuizTime/blob/main/ss5.png)
 <br/>
 
+
