@@ -1,6 +1,6 @@
 # Polarity- Twitter Sentiment Analysis
 
-<img src="https://drive.google.com/file/d/1iDuIa-lnjOvlPlfqxHvnkMNTaiv7a8uT/view?usp=sharing" width=500 height=300>
+![image](https://drive.google.com/uc?export=view&id=1iDuIa-lnjOvlPlfqxHvnkMNTaiv7a8uT)
 
 ### Team name- ADA
 
@@ -14,7 +14,7 @@
 ### Mentors
 
 - Utsav Khatu
-- Tushar Buaskar
+- Tushar Bauskar
 - Jhagrut Lalwani
 
 # Objective-
@@ -33,11 +33,11 @@ To get perform sentiment analysis on tweets and give the user information about 
 
 ## Usage
 
-<img src="https://drive.google.com/file/d/14janQgPxfdjBzmWG1ZveEWNebkI1MGGz/view?usp=sharing" width=500 height=300>
-<img src="https://drive.google.com/file/d/1zsQRexBDgTc9JveiJ5ZaqkPRFuZgUm8W/view?usp=sharing" width=500 height=300>
+![image](https://drive.google.com/uc?export=view&id=14janQgPxfdjBzmWG1ZveEWNebkI1MGGz)
+![image](https://drive.google.com/uc?export=view&id=1zsQRexBDgTc9JveiJ5ZaqkPRFuZgUm8W)
 
 ## Future Scope
 
 - Add other platforms to the website eg. Facebook, VK etc.
 
-#THANK YOU!
+# THANK YOU!
