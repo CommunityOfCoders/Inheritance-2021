@@ -1,59 +1,143 @@
-# MimicCog
+<h1 align="center">MimicCog</h1>
+<p style="font-size: xx-small" align="center">By Team NaN</p>
 
-This project aims at detecting objects from a video/live feed, and then displaying them as their emojis. 
-## Table Of Contents
+![0_lKD8sDQ9fAXt70VC](https://user-images.githubusercontent.com/84874044/150546897-15033664-c9e2-4631-8dfd-a5f3cd128751.gif)
 
-- [Project-Description](#project-description)
-- [Technology-Stack](#technology-stack)
-- [Features-implemented-so-far](#features-implemented-so-far)
-- [Features-left-to-be-implemented](#features-left-to-be-implemented)
-- [Demonstration](#demonstration)
-- [Contributors](#contributors)
-- [Mentors](#mentors)
-### Project-Description
 
-In this project, we have used OpenCV to implement Real-Time Object Detection and then interpreting those objects as "Emojis" as defined by Unicode Consortium, and then displaying the said object.
 
-We have used YOLO v3 object detection algorithm and a pre-trained Darknet model to implement these features. The 80-image COCO dataset was used as YOLO weights
-___
-### Technology-Stack
+## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [🏅Team Members](#team-members)
+- [😎Mentors](#mentors)
+- [🗒️Description](#️description)
+- [📁 File Structure](#file-structure)
+- [👨‍💻 Tech-Stack](#technology-stack)
+- [✅ Progress](#progress)
+- [🛠️ Project Setup and Prerequisites](#️project-setup-and-prerequisites)
+- [🎲 Usage](#usage)
+- [📍 Applications](#applications)
+- [📈 Future Prospects](#future-prospects)
+- [🎮 Demo](#demo-of-the-project)
 
-- Languages Used - Python , Jupyter Notebook
-- Libraries Used 
-  - GUI - tkinter 
-  - Object Detection - OpenCV, Darknet
-- Algorithms Used - YOLO v3
-___
+## Team Members
+* Aditya Mhatre - [GitHub Profile](https://github.com/Adi935), [Mail](adi13mhatre@gmail.com)
+* Chirag Shelar - [GitHub Profile](https://github.com/ChiragShelar), [Mail](chiragshelar1428@gmail.com)
+* Sarrah Bastawala - [GitHub Profile](https://github.com/sarrah-basta), [Mail](sarrah.basta@gmail.com)
+* Kanak Meshram - [GitHub Profile](https://github.com/kanakmeshram), [Mail](canaq.1301@gmail.com)
 
-### Features-implemented-so-far
-- Using OpenCV to read image (from a static image, video, or live camera feed).
-- Applying YOLO v3 Object Detection, and detecting the most prominent object in the frame(if multiple objects present), among the COCO dataset.
-- Finding the most similar "emoji" (as defined by the Unicode Consortium) corresponding to the Object Detected, and then displaying it.
-- Designed a GUI on tkinter
-___
-### Features-left-to-be-implemented
-- Integrating the backend code into GUI.
-- Packaging the code as an .exe executable file.
-- Displaying Multiple Objects(if any) detected in the same frame.
-- Emotion Detection (using Transfer Learning/Continual Learning/two separate models)
-- 3-D Face Emulation.
-___
-### Demonstration
-![demo](https://github.com/Adi935/MimicCog/blob/b4199050655471ff8678b2c9a747290f1f453641/assets/demo2.jpeg)
-![demo video](https://github.com/Adi935/MimicCog/blob/f9f39d71794a3f5727d2f54d89959b958e44d82d/assets/demo.mp4)
-![demo](https://github.com/Adi935/MimicCog/blob/3f965afc401dcd009d03c4fd22a2676f3edd6a03/assets/presentOutput.jpg)
-___
-### Contributors
-___
-- [Aditya Mhatre](https://github.com/Adi935) (adi13mhatre@gmail.com)
-- [Chirag Shelar](https://github.com/Locoya) (chiragshelar1428@gmail.com)
-- [Sarrah Bastawala](https://github.com/sarrah-basta) (sarrah.basta@gmail.com)
-- [Kanak Meshram](https://github.com/kanakmeshram) (canaq.m1301@gmail.com)
+## Mentors
+* Ravi Maurya
+* Shreyas Penkar
+* Tanish 
 
-### Mentors
-___
-- [Ravi Maurya](https://github.com/RaviMauryaHootowl)
-- [Shreyas Penkar](https://github.com/Shreyas-Penkar)
-- [Tanish Sawant](https://github.com/TanishSawant)
+## Description
+This project focuses on emulating the human facial features and represent it as a 2D emoticon. 
+* 2 Pre-Trained models are used for evaluting the captured frames from the live webcam stream.
+* A frame is sent every 1 second to the backend (python code) which returns an int which is then decoded in .js to display the emoticon on the website.
+* If the first pre-trained model detects a person the frame is passed on to the second model that identifies the emotion and its degree displayed by the person.
 
+Visit our [Github repo](https://github.com/Adi935/MimicCog) to clone our repository and to get updates on the future prospects and progress of our project.
+
+## File Structure
+```
+MimiCog
+┣ 📂static
+ ┃ ┣ styles.css
+┣ 📂templates
+ ┃ ┣ index.html
+ ┃ ┣ secondPageWebcam.html
+┣ appFlask.py
+┣ coco.txt
+┣ detectObjectMy.py
+┣ fer2013_mini_XCEPTION.102-0.66.hdf5
+┣ functions.py
+┣ haarcascade_frontalface_default.xml
+┣ yolov3.cfg
+```
+## Technology stack
+
+* ### Languages used: 
+    1. Python
+    2. HTML
+    3. CSS
+    4. JavaScript
+* ### Dependencies used:
+    1. TensorFlow
+    2. Flask
+    3. OpenCV
+    4. Keras
+    5. PIL
+    6. SocketIO
+    7. Scikit learn
+* ### Algorithms/Pre-Trained models used:
+    1. Yolo v3 pre-trained on DarkNet on imagenet dataset.
+    2. Architecture used is a fully-convolutional neural network that contains 4 residual depth-wise seperable convolutions where each convolution is followed by a batch normalization operation and a ReLU activation function.
+
+## Progress
+
+- [x] Object Detection using Yolo v3 (In Python).
+- [x] Emotion Detetcion using pre-trained model (In Python).
+- [x] Creating a frontend that can capture a live webcam stream (Locally).
+- [x] Sending frames of video from frontend to backend for detection and reciving detected output using flask and SocketIO.
+- [x] Displaying an Emoticon for detected object/emotion on the website.
+- [ ] Take in pre-recorded video as a stream instead of live webcam.
+- [ ] Refining the website.
+
+## Project Setup and Prerequisites
+Clone this GitHub Repository or Download it. For cloning you must have GIT installed.
+
+Type this command in the Git Bash Terminal:
+> git clone https://github.com/Adi935/MimicCog
+
+Run the following command to make sure you have the latest version of pip installed:
+>pip install --upgrade pip
+
+First you will have to create a Virtual Enviornment in conda. Henceforth, run all commands in anaconda prompt.
+>conda create --name conda-env python 
+
+Following Dependencies must be installed to run this project. The commands for installation are:
+>pip install numpy
+
+>pip install opencv-python
+
+>pip install tensorflow
+
+>pip install flask
+
+
+## Usage
+After the Project has been Setup, 
+navigate to the directory where the repository is downloaded/cloned. Make sure you are staying in the same virtual enviornment in anaconda prompt.
+
+Run the command 
+>python appFlask.py
+
+The following screen would be shown.
+
+<a href="https://ibb.co/hBMRbxp"><img src="https://i.ibb.co/x1sSWKV/tensorflow.png" alt="tensorflow" border="0"></a>
+
+Go to your preferred browser and enter the URL displayed on your console to run this Project (here it is http://127.0.0.1:5000/).
+
+
+## Applications
+* Can be used to convey emotions through a 2D emoticon without revealing your face for example in video calls, livestreams, etc.
+* Simulate your surroundings and yourself in a 2D enviornment on your screen.
+* Can be used in games, apps, etc. that uses emotions/expressions shown by the user.
+
+## Future Scope
+- [ ] Make the Frontend compatiable as an extension for multiple existing browsers, websites and applications.
+- [ ] Instead of just one object, the entire scene captured is simulated as a 2D enviornment.
+
+## Demo of the Project
+
+* Detection of objects/emotions is shown in the console log.
+
+<a href="https://ibb.co/sbDq0G6"><img src="https://i.ibb.co/8NR9Wpd/Whats-App-Image-2022-01-21-at-15-43-04.jpg" alt="Whats-App-Image-2022-01-21-at-15-43-04" border="0"></a>
+
+
+* Relevant Emoticon is displayed
+
+<a href="https://ibb.co/426gqQY"><img src="https://i.ibb.co/BGXKp1r/emoticon1.png" alt="emoticon1" border="0"></a>
+
+* Watch the working of the project here! [Drive Link with a demo video of the project](https://drive.google.com/drive/u/1/folders/1XAjWDdYxKxwJsMMGaUxV6yQZeptl1og6)
   
