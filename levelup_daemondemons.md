@@ -11,7 +11,7 @@
 
 ## 👨‍🏫 Mentors
 
-- **VEDANT MODKAR**
+- **VEDANT MONDKAR**
 - **CHAHAT BAGHELE**
 
 
