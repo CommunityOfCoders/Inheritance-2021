@@ -20,7 +20,7 @@ You will get 10 seconds to answer each questions and as time passes by the point
 IF WE HAVE SOME TIME ON OUR HANDS THEN WE WILL TRY TO MAKE IT PVP
 Along with this, add the link of the drive folder that contains the app APK/Screenshots/Screen Recordings. If you have hosted your project on the web, add that link as well.
 * GitHub repo link:https://github.com/Vaibhav-Wadsamudrakar/IN-QUIZ-ITION
-* Drive link: https://drive.google.com/drive/folders/15twlsFHO5mTtq8qjj2DiVxI3p2MeJQlG?usp=sharing
+* Drive link:  https://drive.google.com/drive/folders/15twlsFHO5mTtq8qjj2DiVxI3p2MeJQlG?usp=sharing
 
 ## 🧰 Technology stack
 1. Kotlin
