@@ -6,7 +6,6 @@
 * Vaibhav Wadsamudrakar –vbwadsamudrakr_b20@ee.vjti.ac.in
 * Tushar Zalte - tszalte_b20@ee.vjti.ac.in
 
-		
 
 ## 👨‍🏫 Mentors
 * Saksham Tikoo

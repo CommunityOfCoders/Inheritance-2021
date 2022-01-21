@@ -40,6 +40,8 @@ It is a Website that helps a user to Review Movies of different Genres across th
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="" width="31px" height="31px"></a>
 <a href="https://nodejs.org/en/" title="Node JS"><img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" alt="Node JS" width="31px" height="31px"></a>
 
+## GitHub Repository Link
+[GitHub](https://github.com/harshalubale4/Movie-Con)
 
 ## 📷Snapshots
 
