@@ -18,7 +18,7 @@
 
 - [Chaitravi Chalke](https://github.com/chaitravi-ce)
 
-- [Krishna Asher]()
+- [Krishna Asher](https://github.com/Krishna26Ashar)
 
 ## 📄 Description
 
