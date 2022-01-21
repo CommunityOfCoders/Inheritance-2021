@@ -13,10 +13,10 @@ A social networking web application created by team
 
 ## 🧑‍💻Team Members 
 
-- Utkarsh Chheda - [utkchheda27@gmail.com](utkchheda27@gmail.com)
-- Abhishek Gupta - [abhishek.9867.338961@gmail.com](abhishek.9867.338961@gmail.com)
-- Mayuri Pawar - [pawarmayuri0811@gmail.com](pawarmayuri0811@gmail.com)
-- Dhanashree Pawar - [pawardhanashree1409@gmail.com](pawardhanashree1409@gmail.com)
+- [Utkarsh Chheda](https://github.com/utkchheda27) - utkchheda27@gmail.com
+- [Abhishek Gupta](https://github.com/Abhishekohm) - abhishek.9867.338961@gmail.com
+- [Mayuri Pawar](https://github.com/Mayuri811)- pawarmayuri0811@gmail.com
+- [Dhanashree Pawar](https://github.com/dhanashree1409) - pawardhanashree1409@gmail.com
 
 
 ## 👨‍🏫Mentors
@@ -41,7 +41,7 @@ Github Repository Link: [Link to the Repository](https://github.com/utkchheda27/
 
 Drive Link: [Drive Link here](https://drive.google.com/drive/folders/1uHh5ttyB0eHTOSBb9G-DnI0fvuHgO5mH?usp=sharing)
 
-Website Link: will put it here shortly
+Website Link: [Website Link here](https://vibein-1.herokuapp.com/)
 
 
 
@@ -49,7 +49,7 @@ Website Link: will put it here shortly
 
 * #### Front End
   * HTML
-  * CSS []()
+  * CSS 
   * Vanilla JS
 * #### Back End
   * Express
@@ -57,19 +57,7 @@ Website Link: will put it here shortly
 * #### Database
   * MongoDB
   * Cloudinary
-## 📈Progress
 
-- [x] Log in 
-- [x] Sign up
-- [x] Authentication
-- [x] Homepage
-- [x] Like,Comment and Save a Post
-- [x] Profile Page
-- [x] Sending and Accepting a Follow Request
-- [x] Loading Posts with Pagination
-- [ ] Improving UI
-- [ ] Deleting the account  
-- [ ] Chat Feature
  
 ## 🛠️Project Setup
 
@@ -149,14 +137,22 @@ localhost:4000
 
 ## 🖼️Screenshots
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1iEAsFvbBOQ-8sga82me_YiGv4veH7tCe)
+![App Screenshot](https://drive.google.com/uc?export=view&id=11ndHwxG9raLjUmrt0K9ez5guv-wYGtno)
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1rt6NWjjRJcp2IOf5N2VygLnJwdrWsiX2)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1F3Qm4p2POA9mrje00gQcgzUkXyT3fVUA)
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1RaQOjjjiei9hcSmkCtYo_SeH133A2nHz)
+![App Screenshot](https://drive.google.com/uc?export=view&id=14JyLXmY1dFOVTYuyjduM-KpgtKr6o5wd)
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1oN3WAOAmqfkQEhwSSE2Y4cGckhFNzqTP)
+![App Screenshot](https://drive.google.com/uc?export=view&id=14RUpNe0tZp-6uDr3NXiunRJ-1UmIlBDa)
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1juPRILGIPIITGWismvnCisbw-nbUg663)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1b9yqsADWubK2BcWjmqScNPt6QwjNF2ln)
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1RlPy0EDpXz0snaS5BmtCsxiZyphGpDA7)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1XeZrTgK9-19MJJD2v4bEFnic7OPvxQL4)
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1pMRCjXLyggpzS2ndhbglVyPsJzDu33In)
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1JKolHu9-9Cd_9UkNvEhVrppM6RpoT1aI)
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1UhQE5pC-pSryOEr6sU761fN8NTMelcFR)
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1VMiCPsQK-g-bqyRQKwFcxnCoLQa-080Z)
