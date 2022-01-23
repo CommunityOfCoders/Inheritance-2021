@@ -9,31 +9,34 @@
 
 ## Features
 *  Unique login system and user specific app.
-*  Accepts various personal info of user such as age , height, weight, etc.
-*  Suggests specific exercises and to-be-burnt calories , based on users height, weight and activity time.
+*  Accepts various personal info of user such as height, weight, etc.
+*  Suggests specific exercises and to-be-burnt calories , based on users weight and activity time.
 *  Login system which works with the help of firebase authentication service which authenticates user. 
 *  Uses firestore static database service , which keeps track of information all registered users.
 *  Calculates esstential parameters like BMI and retrieves previous entries through firebase and shows progress with table and line chart.
 *  Shows health status through body parameter analysis.
-*  Attractive logo and UI
+
 
 ## Team members
 TEAM MEMBERS:
-* PRASAD KANDALKAR - pkkandalkar_b20@ce.vjti.ac.in
 
-* AISHWARYA JADHAV - apjadhav_b20@it.vjti.ac.in
+* AISHWARYA JADHAV - apj.rise@gmail.com
+
+* PRASAD KANDALKAR - prasadkandalkar220802@gmail.com
+
+* GRISHMA BARULE - grishmabarule2017@gmail.com
 
 * VIPUL PATIL - vspatil_b20@ce.vjti.ac.in
 
-* GRISHMA BARULE - gvbarule_b20@ce.vjti.ac.in
 
 ## Mentors
 * SAKSHAM TIKOO
 * AYUSH PATTNAIK
 * AAYUSH RAZDAN
 
-* GitHub repo link: [Link to repository](https://github.com/Grishma-Barule/BEST-FIT)
-* Drive link: [Drive link here](https://drive.google.com/file/d/1QE2GoV6nYZv5oYGrreUmVH4StKI3xJpE/view)
+## Links
+*  [Github link](https://github.com/Grishma-Barule/BESTFIT_)
+*  [Demo link](https://drive.google.com/file/d/1LorPvdfH85NY1YVpYePvw6VJ50IiBjMg/view)
 
 
 ## Technology stack
@@ -52,21 +55,30 @@ Tools and technologies that you learnt and used in the project.
 - use firebase for data and user tracking
 - merge parts for final app
 
-## Usage
-> Download the apk file attached above and run the app in your device
-> Launch it on Android Studio
-
 
 ## Applications
 > Students who are physically active tend to have better grades, school attendance, cognitive performance (e.g., memory), and classroom behaviors (e.g., on-task behavior)
 >Higher physical activity and physical fitness levels are associated with improved cognitive performance (e.g., concentration, memory) among students.
 
 ## Future scope
->A variety of healthy recipes can be added that contains nutrient facts including carbs,protein, vitamins and fats.
-> Calories counter of food may be included
+
+As this a fitness app it has a huge scope as fitness is the most essential thing nowadays, so this app can act as a key pivot in fitness industry some of which already exists like Healthyfy me etc . Further more features can be added like
+ 
+>For mental health we can add motivational , quotes, blogs , and can also suggest some positive books , videos , music etc. 
+
+>We can add blogs like share our success stories with us , and also suggest proper way of doing exercise through exercise video tutorial , links etc.
+ 
+>We can add progress trackers , daily goals achieved through check boxes and can add reward system like stars ,based on task done . this will also make app interesting and will also track daily progress . 
+
+>We can also suggest appropriate food recipes with amount of calories in it , which can help to become fit according to age etc
 
 ## Screenshots
-* Images link: [Drive link here](https://drive.google.com/drive/folders/1ZnDMPqapmTQJZUNIX0KG43s862EO63LP)
+*  [ Screenshots link](https://drive.google.com/drive/folders/1ZnDMPqapmTQJZUNIX0KG43s862EO63LP)
+
+
+
+
+
 
 
 
